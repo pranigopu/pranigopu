@@ -1,13 +1,12 @@
 <h1>Welcome!</h1>
 
-**_Hi, I'm Prani Gopu a.k.a. Pranav Gopalkrishna_** 👋
+**_Hi, I'm Prani Gopu a.k.a. Pranav Gopalkrishna_** 👋 [Email](pranigopu@gmail.com) | [Instagram](https://www.instagram.com/pranigopu/) | [LinkedIn](www.linkedin.com/in/pranav-gopalkrishna-3a8a37166)
 
 ---
 
 **Contents**:
 
 - [Introduction](#introduction)
-- [Contact](#contact)
 - [Highlighted projects](#highlighted-projects)
 - [Highlighted writings](#highlighted-writings)
 
@@ -15,11 +14,6 @@
 
 # Introduction
 Artificial intelligence is the subject of my choice for which I have a lot of time studying the theory and applying my knowledge in a variety of projects. My key motivations in studying AI were to (1) expand on the creative applications of AI systems and (2) integrate theory and practice to create well-founded and accessible solutions.
-
-# Contact
-- Email: pranigopu@gmail.com
-- Instagram: [@prani_gopu](https://www.instagram.com/pranigopu/)
-- LinkedIn: www.linkedin.com/in/pranav-gopalkrishna-3a8a37166
 
 # Websites
 - [Personal writing showcase using WordPress](https://pranigopu.wordpress.com/)
