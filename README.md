@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Prani Gopu a.k.a. Pranav Gopalkrishna
+<h1>Welcome!</h1>
+
+**_Hi, I'm Prani Gopu a.k.a. Pranav Gopalkrishna_** 👋
 
 ---
 
