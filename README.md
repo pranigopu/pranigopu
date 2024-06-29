@@ -21,7 +21,7 @@ My background in statistics, including applied statistics in my master's, adds t
 # Project work
 **Text Mining and Sentiment Analysis via Chrome Extension (2022)**
 
-I worked in a team of 3 to create a Chrome extension scrapes a website’s text to analyse the text. The text mining and sentiment analysis functionality was implemented in Python by my teammate Hyeok Kim. My task was to create the Chrome extension itself. To access the Python-based functionality, I craeted a Django backend containing the Python code, to which the Chrome extension could send requests (e.g. for webscraping, text analysis, etc.) and receive the required data. For the interface, I created a popup displaying a word cloud, word frequency chart and sentiment pie chart. The prototype got us a 2nd place in the intra-college science fair
+I worked in a team of 3 to create a Chrome extension scrapes a website’s text to analyse the text. The text mining and sentiment analysis functionality was implemented in Python by my teammate Hyeok Kim. My task was to create the Chrome extension itself. To access the Python-based functionality, I craeted a Django backend containing the Python code, to which the Chrome extension could send requests (e.g. for webscraping, text analysis, etc.) and receive the required data. For the interface, I created a popup displaying a word cloud, word frequency chart and sentiment pie chart. The prototype got us a 2nd place in the intra-college science fair.
 
 - **Grade**: 81%
 - [**See GitHub repository >>**](https://github.com/pranigopu/sentiMiner)
@@ -40,7 +40,7 @@ I collaborated with 2 teammates to improve the performance of an AI agent in pla
 
 **Implementing Reinforcement Learning (RL) Methods (2024)**
 
-I collaborated with 2 teammates to implement and test RL methods for navigating a simple grid-based obstacle course. The methods included model-based, model-free and deep learning methods. Each member independently implemented all methods; I have given the link to my own implementations as well. Collaboration was for the team report involving experiments
+I collaborated with 2 teammates to implement and test RL methods for navigating a simple grid-based obstacle course. The methods included model-based, model-free and deep learning methods. Each member independently implemented all methods; I have given the link to my own implementations as well. Collaboration was done for the team report involving experiments.
 
 - **Grade**: 96%
 - [**See GitHub team repository >>**](https://github.com/nocommentcode/ecs7002_assignment_2)
@@ -51,7 +51,7 @@ I collaborated with 2 teammates to implement and test RL methods for navigating 
 
 **Implementing Convolutional and Recurrent Neural Networks for Music (2024)**
 
-I implemented and trained (1) a convolutional neural network (CNN) for musical key recognition, and (2) a bidirectional recurrent neural network (BRNN) for tempo recognition. I designed and implemented preprocessing methods for audio data to be fed into the neural networks and created a post-processing system to combine and present the results of both models.\
+I implemented and trained (1) a convolutional neural network (CNN) for musical key recognition, and (2) a bidirectional recurrent neural network (BRNN) for tempo recognition. I designed and implemented preprocessing methods for audio data to be fed into the neural networks and created a post-processing system to combine and present the results of both models.
 
 - **Grade**: 65%
 - [**See GitHub repository >>**](https://github.com/pranigopu/key--tempo-deepLearning)
