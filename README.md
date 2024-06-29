@@ -9,6 +9,10 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 - Instagram: [@prani_gopu](https://www.instagram.com/pranigopu/)
 - LinkedIn: www.linkedin.com/in/pranav-gopalkrishna-3a8a37166
 
+# Websites
+- [Personal writing showcase using WordPress](https://pranigopu.wordpress.com/)
+- [Comprehensive personal writing and art collection using GitHub pages](https://pranigopu.github.io/)
+
 # Background
 My background in computer science, especially with my extensive programming projects (mostly in Python, Java and C) in a variety of domains (both personal and academic; see: https://github.com/stars/pranigopu/lists/projects), has built up my creativity, problem-solving skills (including debugging skills) and most importantly, perseverance (mostly due to the many failed attempts, steep learning curves and debugging). Moreover, I document my work meticulously, so I have experience in making sure my work is as interpretable and accessible as possible.
  
@@ -70,12 +74,6 @@ I designed 3 cellular automata to procedurally generate “coral reef” terrain
 - **Grade**: 89%
 - [**See video presentation >>**](https://www.youtube.com/watch?v=sJMKtEH5r3g)
 - [**See GitHub repository >>**](https://github.com/pranigopu/diver-vs-mermaid)
-
-# My websites
-Apart from my academic work, I also write, mainly on philosophical topics but also poetry, fiction and technical writing (such as explanatory documents on statistical concepts, mathematical concepts, etc.). I also collect art, visual and musicl my collection is available in my personal website made using GitHub Pages (link given below)
-
-- [Showcase website using WordPress](https://pranigopu.wordpress.com/)
-- [Comprehensive writing and art collection using GitHub pages](https://pranigopu.github.io/)
 
 <!---
 pranigopu/pranigopu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
