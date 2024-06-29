@@ -2,7 +2,7 @@
 
 **_Hi, I'm Prani Gopu a.k.a. Pranav Gopalkrishna_** 👋
 
-Email: pranigopu@gmail.com | Instagram: [@pranigopu](https://www.instagram.com/pranigopu/) | LinkedIn: [Pranav Gopalkrishna](www.linkedin.com/in/pranav-gopalkrishna-3a8a37166)
+`Email`: pranigopu@gmail.com | `Instagram`: [@pranigopu](https://www.instagram.com/pranigopu/) | `LinkedIn`: [Pranav Gopalkrishna](www.linkedin.com/in/pranav-gopalkrishna-3a8a37166)
 
 ---
 
