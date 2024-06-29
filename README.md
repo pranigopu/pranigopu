@@ -2,6 +2,17 @@
 
 ---
 
+**Contents**:
+
+- [Introduction](#introduction)
+- [Contact](#contact)
+- [Projects in AI and ML](#highlighted-projects)
+- [Other notable work in AI and ML](#writings-in-ai-and-ml)
+- [Projects and notable work](#other-notable-projects)
+
+---
+
+# Introduction
 Artificial intelligence is the subject of my choice for which I have a lot of time studying the theory and applying my knowledge in a variety of projects. My key motivations in studying AI were to (1) expand on the creative applications of AI systems and (2) integrate theory and practice to create well-founded and accessible solutions.
 
 # Contact
@@ -14,15 +25,14 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 - [Comprehensive personal writing and art collection using GitHub pages](https://pranigopu.github.io/)
 
 # Background
-My background in computer science, especially with my extensive programming projects (mostly in Python, Java and C) in a variety of domains (both personal and academic; see: https://github.com/stars/pranigopu/lists/projects), has built up my creativity, problem-solving skills (including debugging skills) and most importantly, perseverance (mostly due to the many failed attempts, steep learning curves and debugging). Moreover, I document my work meticulously, so I have experience in making sure my work is as interpretable and accessible as possible.
+I have a strong background in computer science, especially due to my extensive programming projects (mostly in Python, Java and C) in a variety of domains (both personal and academic; see: https://github.com/stars/pranigopu/lists/projects). I also have a strong background in statistics and mathematics. I enjoy both mathematics and computer science, and putting them together has been a long-standing interest of mine. Furthermore, due to my last two major projects, I have substantial experience in designing, implementing (from scratch), training and tinkering with deep learning models (mostly working with Keras and Tensorflow). My work with machine learning models has produced well-motivated solutions (which have been well documented in my GitHub) for relatively unique and interesting applications, such as neural style transfer between an ambience and a music piece, or a musical key and tempo classification model.
  
-My background in statistics, including applied statistics in my master's, adds to my learning and experience in machine learning (both theoretically and practically). I enjoy both mathematics and computer science, and putting them together has been a long-standing interest of mine. Furthermore, due to my last two major projects, I have substantial experience in designing, implementing (from scratch), training and tinkering with deep learning models (mostly working with Keras and Tensorflow). My work with machine learning models has produced well-motivated solutions (which have been well documented in my GitHub) for relatively unique and interesting applications, such as neural style transfer between an ambience and a music piece, or a musical key and tempo classification model.
- 
-# Project work
+# Highlighted projects
 **Text Mining and Sentiment Analysis via Chrome Extension (2022)**
 
-I worked in a team of 3 to create a Chrome extension scrapes a website’s text to analyse the text. The text mining and sentiment analysis functionality was implemented in Python by my teammate Hyeok Kim. My task was to create the Chrome extension itself. To access the Python-based functionality, I craeted a Django backend containing the Python code, to which the Chrome extension could send requests (e.g. for webscraping, text analysis, etc.) and receive the required data. For the interface, I created a popup displaying a word cloud, word frequency chart and sentiment pie chart. The prototype got us a 2nd place in the intra-college science fair.
-
+- **Goal**: Create a Chrome extension to scrape a website's text and analyse the text
+- **Languages**: JavaScript, HTML, Python
+ - **Keywords**: Chrome Extension, Django, Text Mining, Sentiment Analysis
 - **Grade**: 81%
 - [**See GitHub repository >>**](https://github.com/pranigopu/sentiMiner)
 
@@ -30,18 +40,22 @@ I worked in a team of 3 to create a Chrome extension scrapes a website’s text 
 
 **Enhancing Monte Carlo Tree Search (MCTS) (2023)**
 
-I collaborated with 2 teammates to improve the performance of an AI agent in playing the card game Sushi Go!. The team implemented and tested the effect of different bandit methods on the base MCTS algorithm. I had no contribution to the final code due to mediocre results in IS-MCTS (Information Set Monte Carlo Tree Search) implementations. However, I was a major contributor to the final report.
-
+- **Goal**: Improve the performance of an AI agent using basic MCTS in playing the card game "Sushi Go!"
+- **Languages**: Java
+- **Keywords**: Monte Carlo Tree Search, Bandit Methods
 - **Grade**: 94%
 - [**See GitHub team repository >>**](https://github.com/grahaminn/AIinGames-Assignment1)
 - [**See report >>**](https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf)
+
+**NOTE**: _I had no contribution to the final code due to mediocre results in IS-MCTS (Information Set Monte Carlo Tree Search) implementations. However, I was a major contributor to the final report._
 
 ---
 
 **Implementing Reinforcement Learning (RL) Methods (2024)**
 
-I collaborated with 2 teammates to implement and test RL methods for navigating a simple grid-based obstacle course. The methods included model-based, model-free and deep learning methods. Each member independently implemented all methods; I have given the link to my own implementations as well. Collaboration was done for the team report involving experiments.
-
+- **Goal**: Implement and test RL methods for navigating a simple grid-based obstacle course
+- **Languages**: Python
+- **Keywords**: Reinforcement Learning, Model-based, Model-free, Deep Learning
 - **Grade**: 96%
 - [**See GitHub team repository >>**](https://github.com/nocommentcode/ecs7002_assignment_2)
 - [**See GitHub personal repository >>**](https://github.com/pranigopu/frozenLake)
@@ -51,8 +65,9 @@ I collaborated with 2 teammates to implement and test RL methods for navigating 
 
 **Implementing Convolutional and Recurrent Neural Networks for Music (2024)**
 
-I implemented and trained (1) a convolutional neural network (CNN) for musical key recognition, and (2) a bidirectional recurrent neural network (BRNN) for tempo recognition. I designed and implemented preprocessing methods for audio data to be fed into the neural networks and created a post-processing system to combine and present the results of both models.
-
+- **Goal**: Implement, train and present models for musical key recognition and tempo recognition
+- **Languages**: Python using Jupyter Notebook
+- **Keywords**: Convolutional Neural Network, Bidirectional Recurrent Neural Network
 - **Grade**: 65%
 - [**See GitHub repository >>**](https://github.com/pranigopu/key--tempo-deepLearning)
 
@@ -60,8 +75,9 @@ I implemented and trained (1) a convolutional neural network (CNN) for musical k
 
 **Implementing Neural Style Transfer (NST) for audio (2024)**
 
-I designed and trained convolutional neural networks (CNNs) for genre classification. I used the trained CNNs to implement NST for transferring the style of one musical piece (usually an ambient piece) to another. I implemented NST audio from scratch (using references). Finally, I created a Google Colab interface to run the NST for music pieces (to be given as audio files).
-
+- **Goal**: Implement NST for transferring the style of an ambience to a musical piece
+- **Languages**: Python using Google Colab
+- **Keywords**: Convolutional Neural Network, Neural Style Transfer
 - **Grade**: 62%
 - [**See GitHub repository >>**](https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer)
 
@@ -69,12 +85,15 @@ I designed and trained convolutional neural networks (CNNs) for genre classifica
 
 **Implementing Cellular Automata and Behaviour Trees (2024)**
 
-I designed 3 cellular automata to procedurally generate “coral reef” terrains, along with 2 behaviour trees to handle two agents (player and attacking mermaid). The project was done using the Unity Game Engine, and was coded in C#.
-
+- **Goal 1**: Design and implement cellular automata to procedurally generate “coral reef” terrains
+- **Goal 2**: Design and implement behaviour trees to handle two agents (player and attacking mermaid).
+- **Languages**: C# using Unity Game Engine
+- **Keywords**: Unity, Procedural Content Generation, Behaviour Trees
 - **Grade**: 89%
 - [**See video presentation >>**](https://www.youtube.com/watch?v=sJMKtEH5r3g)
 - [**See GitHub repository >>**](https://github.com/pranigopu/diver-vs-mermaid)
 
+# 
 <!---
 pranigopu/pranigopu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
