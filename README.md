@@ -6,8 +6,6 @@
 
 ---
 
-**Contents**:
-
 - [Introduction](#introduction)
 - [Highlighted projects](#highlighted-projects)
 - [Highlighted writings](#highlighted-writings)
