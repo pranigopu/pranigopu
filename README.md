@@ -8,7 +8,7 @@
 
 - [:smiley_cat: Introduction](#smiley_cat-introduction)
 - [:globe_with_meridians: Websites](#globe_with_meridians-websites)
-- [:mag_left: Background](#mag_left-background)
+- [:mag: Background](#mag-background)
 - [:hammer: Highlighted projects](#hammer-highlighted-projects)
 - [:black_nib: Highlighted writings](#black_nib-highlighted-writings)
 
@@ -21,7 +21,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 - [Personal writing showcase using WordPress](https://pranigopu.wordpress.com/)
 - [Comprehensive personal writing and art collection using GitHub pages](https://pranigopu.github.io/)
 
-# :mag_left: BACKGROUND
+# :mag: BACKGROUND
 I have a strong background in computer science, especially due to my extensive programming projects (mostly in Python, Java and C) in a variety of domains (both personal and academic; see: https://github.com/stars/pranigopu/lists/projects). I also have a strong background in statistics and mathematics. I enjoy both mathematics and computer science, and putting them together has been a long-standing interest of mine. Furthermore, due to my last two major projects, I have substantial experience in designing, implementing (from scratch), training and tinkering with deep learning models (mostly working with Keras and Tensorflow). My work with machine learning models has produced well-motivated solutions (which have been well documented in my GitHub) for relatively unique and interesting applications, such as neural style transfer between an ambience and a music piece, or a musical key and tempo classification model.
  
 # :hammer: HIGHLIGHTED PROJECTS
