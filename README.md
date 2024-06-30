@@ -92,21 +92,39 @@ I have a strong background in computer science, especially due to my extensive p
 [**See GitHub repository >>**](https://github.com/pranigopu/diver-vs-mermaid) | [**See video presentation >>**](https://www.youtube.com/watch?v=sJMKtEH5r3g)
 
 # Highlighted writings
+**Report on Transparency, Explainability and Accountability (TEA) in Artificial Intelligence (AI) (2024)**
+
+- **Goal**: Present a reflection, case study and ethics framework proposal for implementing TEA in AI
+- **Keywords**: `ai in industry`,  `ethical framework`, `regulatory framework`
+
+[**See in GitHub**](https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf)
+
+---
+
+**Industry Case Study on Procedural Generation (2024)**
+
+- **Goal**: Present a case study on cyclic procedural generation from the game "Unexplored"
+- **Keywords**: `cyclic dungeon generation`, `unexplored`, `procedural content generation`
+
+[**See in GitHub >>**](https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/Cyclic%20Generation.pdf)
+
+---
+
+**Technical Writings on Key Statistical Concepts (2023-2024)**
+
+- **Goal**: Present a mathematically and conceptually rigorous overview of key statistical concepts
+- **Keywords**: `probability theory`, `statistical estimation`, `hypothesis testing`
+
+[**See in personal website >>**](https://pranigopu.github.io/statistics/)
+
+---
+
 **Applications of Number Theory (2022)**
 
 - **Goal**: Present various real-world applications of number theory
 - **Keywords**: `number theory`, `pseudorandom number generation`, `cryptography`, `coding-decoding`
 
 [**See in GitHub >>**](https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory)
-
----
-
-**Industry Case Study on Procedural Generation**
-
-- **Goal**: Present a case study on cyclic procedural generation from the game "Unexplored"
-- **Keywords**: `cyclic dungeon generation`, `unexplored`, `procedural content generation`
-
-[**See in GitHub >>**](https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/Cyclic%20Generation.pdf)
 
 <!---
 pranigopu/pranigopu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
