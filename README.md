@@ -91,8 +91,7 @@ I have a strong background in computer science, especially due to my extensive p
 
 [**See GitHub repository >>**](https://github.com/pranigopu/diver-vs-mermaid) | [**See video presentation >>**](https://www.youtube.com/watch?v=sJMKtEH5r3g)
 
-:black_nib:
-# HIGHLIGHTED WRITINGS
+# :black_nib: HIGHLIGHTED WRITINGS
 **Report on Transparency, Explainability and Accountability (TEA) in Artificial Intelligence (AI) (2024)**
 
 - **Goal**: Present a reflection, case study and ethics framework proposal for implementing TEA in AI
