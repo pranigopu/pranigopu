@@ -112,7 +112,7 @@ I have a strong background in computer science, especially due to my extensive p
 - **Goal**: Present a case study on cyclic procedural generation from the game "Unexplored"
 - **Keywords**: `cyclic dungeon generation`, `unexplored`, `procedural content generation`
 
-[**See in GitHub >>**](https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/Cyclic%20Generation.pdf)
+[**See in GitHub >>**](https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf)
 
 ---
 
