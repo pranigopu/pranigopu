@@ -16,7 +16,7 @@
 
 ---
 
-**Navigation**:
+**:compass: Navigation**:
 
 - [:mag: INTRODUCTION](#introduction)
 - [:hammer: HIGHLIGHTED PROJECTS](#highlighted-projects)
