@@ -8,28 +8,25 @@
 
 **Navigation**:
 
-- [:smiley_cat: INTRODUCTION](#introduction)
+- [:mag: INTRODUCTION](#introduction)
 - [:globe_with_meridians: WEBSITES](#websites)
-- [:mag: BACKGROUND](#background)
 - [:hammer: HIGHLIGHTED PROJECTS](#highlighted-projects)
 - [:black_nib: HIGHLIGHTED WRITINGS](#highlighted-writings)
 
 ---
 
-<h1 id="introduction">:smiley_cat: INTRODUCTION</h1>
+<h1 id="introduction">:mag: INTRODUCTION</h1>
 
 Artificial intelligence is the subject of my choice for which I have a lot of time studying the theory and applying my knowledge in a variety of projects. My key motivations in studying AI were to (1) expand on the creative applications of AI systems and (2) integrate theory and practice to create well-founded and accessible solutions.
+
+I have a strong background in computer science, especially due to my extensive programming projects (mostly in Python, Java and C) in a variety of domains (both personal and academic; see: https://github.com/stars/pranigopu/lists/projects). I also have a strong background in statistics and mathematics. I enjoy both mathematics and computer science, and putting them together has been a long-standing interest of mine.
+
+Due to my last two major projects, I have substantial experience in designing, implementing (from scratch), training and tinkering with deep learning models (mostly working with Keras and Tensorflow). My work with machine learning models has produced well-motivated solutions (which have been well documented in my GitHub) for relatively unique and interesting applications, such as neural style transfer between an ambience and a music piece, or a musical key and tempo classification model.
 
 <h1 id="websites">:globe_with_meridians: WEBSITES</h1>
 
 - [Personal writing showcase using WordPress](https://pranigopu.wordpress.com/)
 - [Comprehensive personal writing and art collection using GitHub pages](https://pranigopu.github.io/)
-
-<h1 id="background">:mag: BACKGROUND</h1>
-
-I have a strong background in computer science, especially due to my extensive programming projects (mostly in Python, Java and C) in a variety of domains (both personal and academic; see: https://github.com/stars/pranigopu/lists/projects). I also have a strong background in statistics and mathematics. I enjoy both mathematics and computer science, and putting them together has been a long-standing interest of mine.
-
-Due to my last two major projects, I have substantial experience in designing, implementing (from scratch), training and tinkering with deep learning models (mostly working with Keras and Tensorflow). My work with machine learning models has produced well-motivated solutions (which have been well documented in my GitHub) for relatively unique and interesting applications, such as neural style transfer between an ambience and a music piece, or a musical key and tempo classification model.
  
 <h1 id="highlighted-projects">:hammer: HIGHLIGHTED PROJECTS</h1>
 
