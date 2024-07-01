@@ -4,7 +4,6 @@
 
 ---
 
-|  |  |
 | --- | --- |
 | :mailbox: Contact | `Email`: pranigopu@gmail.com ¦ `Instagram`: [@pranigopu](https://www.instagram.com/pranigopu/) ¦ `LinkedIn`: [Pranav Gopalkrishna](https://www.linkedin.com/in/pranav-gopalkrishna-3a8a37166/) |
 | :globe_with_meridians: Websites | [Personal Writing Showcase](https://pranigopu.wordpress.com/) ¦ [Personal Website](https://pranigopu.github.io/) |
