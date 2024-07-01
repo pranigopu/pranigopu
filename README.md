@@ -6,11 +6,13 @@
 
 ---
 
-- [:smiley_cat: Introduction](#introduction)
-- [:globe_with_meridians: Websites](#websites)
-- [:mag: Background](#background)
-- [:hammer: Highlighted projects](#highlighted-projects)
-- [:black_nib: Highlighted writings](#highlighted-writings)
+**Navigation**:
+
+- [:smiley_cat: INTRODUCTION](#introduction)
+- [:globe_with_meridians: WEBSITES](#websites)
+- [:mag: BACKGROUND](#background)
+- [:hammer: HIGHLIGHTED PROJECTS](#highlighted-projects)
+- [:black_nib: HIGHLIGHTED WRITINGS](#highlighted-writings)
 
 ---
 
