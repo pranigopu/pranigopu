@@ -12,13 +12,13 @@
 
 **:globe_with_meridians: Personal websites**:
 
-[Personal writing showcase using WordPress](https://pranigopu.wordpress.com/) | [Comprehensive personal writing and art collection using GitHub pages](https://pranigopu.github.io/)
+[Personal Writing Showcase](https://pranigopu.wordpress.com/) | [Personal Website](https://pranigopu.github.io/)
 
 ---
 
 **:compass: Navigation**:
 
-[:mag: INTRODUCTION](#introduction) | [:hammer: HIGHLIGHTED PROJECTS](#highlighted-projects) | [:black_nib: HIGHLIGHTED WRITINGS](#highlighted-writings)
+[:mag: Introduction](#introduction) | [:hammer: Highlighted Projects](#highlighted-projects) | [:black_nib: Highlighted Writings](#highlighted-writings)
 
 ---
 
