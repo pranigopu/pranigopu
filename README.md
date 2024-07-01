@@ -10,7 +10,7 @@
 
 ---
 
-**:globe_with_meridians: Personal websites**:
+**:globe_with_meridians: Websites**:
 
 [Personal Writing Showcase](https://pranigopu.wordpress.com/) | [Personal Website](https://pranigopu.github.io/)
 
