@@ -63,7 +63,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 - **Goal**: Implement, train and present models for musical key recognition and tempo recognition
 - **Languages**: Python using Jupyter Notebook
 - **Keywords**: `convolutional neural network`, `bidirectional recurrent neural network`
-- **Grade**: 65%
+- **Grade**: 60%
 
 [**See GitHub repository >>**](https://github.com/pranigopu/key--tempo-deepLearning)
 
@@ -74,7 +74,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 - **Goal**: Implement NST for transferring the style of an ambience to a musical piece
 - **Languages**: Python using Google Colab
 - **Keywords**: `convolutional neural network`, `neural style transfer`
-- **Grade**: 62%
+- **Grade**: 57%
 
 [**See GitHub repository >>**](https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer)
 
