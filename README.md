@@ -23,38 +23,15 @@ Due to my last two major projects, I have substantial experience in designing, i
  
 <h1 id="highlighted-projects">:hammer: HIGHLIGHTED PROJECTS</h1>
 
-**Text Mining and Sentiment Analysis via Chrome Extension (2022)**
+**Implementing Cellular Automata and Behaviour Trees (2024)**
 
-- **Goal**: Create a Chrome extension to scrape a website's text and analyse the text
-- **Languages**: JavaScript, HTML, Python
- - **Keywords**: `chrome extension`, `django`, `text mining`, `sentiment analysis`
-- **Grade**: 81%
+- **Goal 1**: Design and implement cellular automata to procedurally generate “coral reef” terrains
+- **Goal 2**: Design and implement behaviour trees to handle two agents (player and attacking mermaid).
+- **Languages**: C# using Unity Game Engine
+- **Keywords**: `unity`, `procedural content generation`, `behaviour tree`
+- **Grade**: 89%
 
-[**See GitHub repository >>**](https://github.com/pranigopu/sentiMiner)
-
----
-
-**Enhancing Monte Carlo Tree Search (MCTS) (2023)**
-
-- **Goal**: Improve the performance of an AI agent using basic MCTS in playing the card game "Sushi Go!"
-- **Languages**: Java
-- **Keywords**: `monte carlo tree search`, `bandit methods`
-- **Grade**: 94%
-
-[**See GitHub team repository >>**](https://github.com/grahaminn/AIinGames-Assignment1) | [**See report >>**](https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf)
-
-**NOTE**: _I had no contribution to the final code due to mediocre results in IS-MCTS (Information Set Monte Carlo Tree Search) implementations. However, I was a major contributor to the final report._
-
----
-
-**Implementing Reinforcement Learning (RL) Methods (2024)**
-
-- **Goal**: Implement and test RL methods for navigating a simple grid-based obstacle course
-- **Languages**: Python
-- **Keywords**: `reinforcement learning`, `model-based`, `model-free`, `deep learning`
-- **Grade**: 96%
-
-[**See GitHub team repository >>**](https://github.com/nocommentcode/ecs7002_assignment_2) | [**See GitHub personal repository >>**](https://github.com/pranigopu/frozenLake) | [**See report >>**](https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf)
+[**See GitHub repository >>**](https://github.com/pranigopu/diver-vs-mermaid) | [**See video presentation >>**](https://www.youtube.com/watch?v=sJMKtEH5r3g)
 
 ---
 
@@ -80,15 +57,38 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 ---
 
-**Implementing Cellular Automata and Behaviour Trees (2024)**
+**Implementing Reinforcement Learning (RL) Methods (2024)**
 
-- **Goal 1**: Design and implement cellular automata to procedurally generate “coral reef” terrains
-- **Goal 2**: Design and implement behaviour trees to handle two agents (player and attacking mermaid).
-- **Languages**: C# using Unity Game Engine
-- **Keywords**: `unity`, `procedural content generation`, `behaviour tree`
-- **Grade**: 89%
+- **Goal**: Implement and test RL methods for navigating a simple grid-based obstacle course
+- **Languages**: Python
+- **Keywords**: `reinforcement learning`, `model-based`, `model-free`, `deep learning`
+- **Grade**: 96%
 
-[**See GitHub repository >>**](https://github.com/pranigopu/diver-vs-mermaid) | [**See video presentation >>**](https://www.youtube.com/watch?v=sJMKtEH5r3g)
+[**See GitHub team repository >>**](https://github.com/nocommentcode/ecs7002_assignment_2) | [**See GitHub personal repository >>**](https://github.com/pranigopu/frozenLake) | [**See report >>**](https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf)
+
+---
+
+**Enhancing Monte Carlo Tree Search (MCTS) (2023)**
+
+- **Goal**: Improve the performance of an AI agent using basic MCTS in playing the card game "Sushi Go!"
+- **Languages**: Java
+- **Keywords**: `monte carlo tree search`, `bandit methods`
+- **Grade**: 94%
+
+[**See GitHub team repository >>**](https://github.com/grahaminn/AIinGames-Assignment1) | [**See report >>**](https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf)
+
+**NOTE**: _I had no contribution to the final code due to mediocre results in IS-MCTS (Information Set Monte Carlo Tree Search) implementations. However, I was a major contributor to the final report._
+
+---
+
+**Text Mining and Sentiment Analysis via Chrome Extension (2022)**
+
+- **Goal**: Create a Chrome extension to scrape a website's text and analyse the text
+- **Languages**: JavaScript, HTML, Python
+ - **Keywords**: `chrome extension`, `django`, `text mining`, `sentiment analysis`
+- **Grade**: 81%
+
+[**See GitHub repository >>**](https://github.com/pranigopu/sentiMiner)
 
 <h1 id="highlighted-writings">:black_nib: HIGHLIGHTED WRITINGS</h1>
 
