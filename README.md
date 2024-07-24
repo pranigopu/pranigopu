@@ -126,7 +126,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 [**See in GitHub >>**](https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory)
 
-<h1 id="highlighted-projects">:smirk_cat: PERSONAL PROJECTS</h1>
+<h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
 
 **ClingClick - A Mineable Obstacle-Maze Boss-Fight**
 
@@ -145,6 +145,14 @@ Due to my last two major projects, I have substantial experience in designing, i
 - **Keywords**: `minesweeper`, `terminal-based interface`
 
 [**See GitHub repository >>**](https://github.com/pranigopu/mineSweeper)
+
+---
+
+**Notes Manager**
+
+- **Goal**: Create a simple program to manage your notes (particularly study notes)
+- **Languages**: Java
+- **Keywords**: `file and directory management with java`
 
 ---
 
