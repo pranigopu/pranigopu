@@ -130,9 +130,9 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 **ClingClick - A Mineable Obstacle-Maze Boss Fight**
 
-- **Goal**: Implement a boss fight against a pathfinding NPC in a sandbox maze environment
+- **Goal**: Implement a boss fight against a pathfinding NPC in a mineable maze environment
 - **Languages**: C
-- **Keywords**: `a-star pathfinding`, `sandbox environment`, `inventory management`
+- **Keywords**: `a-star pathfinding`, `mineable environment`, `inventory management`
 
 [**See GitHub repository >>**](https://github.com/pranigopu/clingClick)
 
