@@ -9,7 +9,7 @@
 | :mailbox: Email | pranigopu@gmail.com |
 | :people_holding_hands: Social | `Instagram`: [@pranigopu](https://www.instagram.com/pranigopu/) ¦ `LinkedIn`: [Pranav Gopalkrishna](https://www.linkedin.com/in/pranav-gopalkrishna-3a8a37166/) |
 | :globe_with_meridians: Websites | [Personal Writing Showcase](https://pranigopu.wordpress.com/) ¦ [Personal Website](https://pranigopu.github.io/) |
-| :compass: Navigation | [:mag: Introduction](#introduction) ¦ [:hammer: Highlighted Projects](#highlighted-projects) ¦ [:black_nib: Highlighted Writings](#highlighted-writings) |
+| :compass: Navigation | [:mag: Introduction](#introduction) ¦ [:hammer: Highlighted Projects](#highlighted-projects) ¦ [:black_nib: Highlighted Writings](#highlighted-writings) ¦ [Personal Projects](#personal-projects)|
 
 ---
 
@@ -125,6 +125,50 @@ Due to my last two major projects, I have substantial experience in designing, i
 - **Keywords**: `number theory`, `pseudorandom number generation`, `cryptography`, `coding-decoding`
 
 [**See in GitHub >>**](https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory)
+
+<h1 id="highlighted-projects">:smirk_cat: PERSONAL PROJECTS</h1>
+
+**ClingClick - A Mineable Obstacle-Maze Boss-Fight**
+
+- **Goal**: Implement a boss-fight against a pathfinding NPC in a sandbox maze environment
+- **Languages**: C
+- **Keywords**: `a-star pathfinding`, `sandbox environment`, `inventory management`
+
+[**See GitHub repository >>**](https://github.com/pranigopu/clingClick)
+
+---
+
+**MineSweeper Implementation in C**
+
+- **Goal**: Implement the classic MineSweeper game in C, using a terminal-based interface
+- **Languages**: C
+- **Keywords**: `minesweeper`, `terminal-based interface`
+
+[**See GitHub repository >>**](https://github.com/pranigopu/mineSweeper)
+
+---
+
+**Exploring Algorithmic Trading**
+
+- **Goal**: Explore algorithmic trading
+- **Languages**: Python
+- **Keywords**: `api calls`, `point and batch requests`
+
+[**See GitHub repository >>**](https://github.com/pranigopu/algorithmicTrading)
+
+**NOTE**: _So far, I have only learnt key concepts behind algorithmic trading and dealing with API requests and responses for data._
+
+---
+
+**Tic Tac Toe Implementation**
+
+- **Goal**: Implement tic tac toe (single-player and multiplayer)
+- **Languages**: C
+- **Keywords**: `tic tac toe`, `ai opponent`
+
+[**See GitHub repository >>**](https://github.com/pranigopu/ticTacToe)
+
+**NOTE**: _The "AI opponent" is a relatively basic algorithm to try to stump the player using a few simple strategies._
 
 <!---
 pranigopu/pranigopu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
