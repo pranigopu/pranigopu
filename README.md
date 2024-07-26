@@ -90,7 +90,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 [**See GitHub repository >>**](https://github.com/pranigopu/sentiMiner)
 
-<h1 id="highlighted-writings">:black_nib: HIGHLIGHTED WRITINGS</h1>
+<h1 id="highlighted-writings">:black_nib: HIGHLIGHTED WRITINGS AND PRESENTATIONS</h1>
 
 **Report on Transparency, Explainability and Accountability (TEA) in Artificial Intelligence (AI) (2024)**
 
@@ -107,6 +107,15 @@ Due to my last two major projects, I have substantial experience in designing, i
 - **Keywords**: `cyclic dungeon generation`, `unexplored`, `procedural content generation`
 
 [**See in GitHub >>**](https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf)
+
+---
+
+**Presentation on a Paper in Deep Learning for Audio and Music**
+
+- **Goal**: Present the essentials of "Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris
+- **Keywords**: `automated skills assessment`, `multimodal skills assessment`
+
+[**See in GitHub >>**](https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation)
 
 ---
 
