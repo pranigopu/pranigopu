@@ -23,6 +23,17 @@ Due to my last two major projects, I have substantial experience in designing, i
  
 <h1 id="highlighted-projects">:hammer: HIGHLIGHTED PROJECTS</h1>
 
+**Comparative Evaluation of Bayesian Neural Networks (2024)**: <br> _Master's Thesis_
+
+- **Goal 1**: Present a clear link between Bayesian inference and Bayesian neural networks (BNNs) in practice
+- **Goal 2**: Evaluate and compare the uncertainty quantification of distinct BNN methods
+- **Languages**: Python using Jupyter Notebook
+- **Keywords**: `bayesian inference`, `bayesian neural network`
+
+[**See GitHub repository >>**](https://github.com/pranigopu/masters-project)
+
+---
+
 **Implementing Cellular Automata and Behaviour Trees (2024)**
 
 - **Goal 1**: Design and implement cellular automata to procedurally generate “coral reef” terrains
