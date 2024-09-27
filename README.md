@@ -4,12 +4,25 @@
 
 ---
 
-|  |  |
-| --- | --- |
-| :mailbox: Email | pranigopu@gmail.com |
-| :people_holding_hands: Social | `Instagram`: [@pranigopu](https://www.instagram.com/pranigopu/) ¦ `LinkedIn`: [Pranav Gopalkrishna](https://www.linkedin.com/in/pranav-gopalkrishna-3a8a37166/) |
-| :globe_with_meridians: Websites | [Personal Writing Showcase](https://pranigopu.wordpress.com/) ¦ [Personal Website](https://pranigopu.github.io/) |
-| :compass: Navigation | :mag: [Introduction](#introduction) <br> :hammer: [Highlighted Projects](#highlighted-projects) <br> :black_nib: [Highlighted Writings and Presentations](#highlighted-writings) <br> :smirk_cat: [Personal Projects](#personal-projects) |
+<table>
+<tr>
+<td>:mailbox: Email</td>
+<td>pranigopu@gmail.com</td>
+</tr>
+<tr>
+<td>:people_holding_hands: Social</td>
+<td><code>Instagram</code>: <a href="https://www.instagram.com/pranigopu/">@pranigopu</a> ¦ <code>LinkedIn</code>: <a href="https://www.linkedin.com/in/pranav-gopalkrishna-3a8a37166/">Pranav Gopalkrishna</a></td>
+</tr>
+<tr>
+<td>:globe_with_meridians: Websites</td>
+<td><a href="https://pranigopu.wordpress.com/">Personal Writing Showcase</a> ¦ <a href="https://pranigopu.github.io/">Personal Website</a></td>
+</tr>
+<tr>
+<td>:compass: Navigation</td>
+<td>:mag: <a href="#introduction">Introduction</a> <br> :hammer: <a href="#highlighted-projects">Highlighted Projects</a> <br> :black_nib: <a href="#highlighted-writings">Highlighted Writings and Presentations</a> <br> :smirk_cat: <a href="#personal-projects">Personal Projects</a></td>
+</tr>
+</table>
+
 
 ---
 
