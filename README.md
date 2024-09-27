@@ -70,7 +70,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 ---
 
-**Implementing Neural Style Transfer (NST) for audio (2024)**
+**Implementing Neural Style Transfer (NST) for Audio (2024)**
 
 - **Goal**: Implement NST for transferring the style of an ambience to a musical piece
 - **Languages**: Python using Google Colab
