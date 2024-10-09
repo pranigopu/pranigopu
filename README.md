@@ -226,13 +226,14 @@ You can click the Preview link to take a look at your changes.
 | 6-9 Months         | Development of BNNs for uncertainty quantification; integration of HMC and VI methods.                   |
 | 9-12 Months        | Initial testing and evaluation of models on artefact datasets; refinement of algorithms.                |
 | **Year 2**         |                                                                                                        |
-| 12-15 Months       | Expansion of model to incorporate CNNs for image data; collaboration with RFF01 team for integration.   |
+| 12-15 Months       | Expansion of model to incorporate CNNs for image data; collaboration with relevant teams for integration.   |
 | 15-18 Months       | Iterative testing and validation using cross-disciplinary feedback; publication of preliminary findings.|
 | 18-21 Months       | Integration of RNNs for temporal/spatial data; refining the system’s performance.                      |
-| 21-24 Months       | Testing and deployment of the integrated system within the Cluster’s infrastructure.                    |
+| 21-24 Months       | Testing and deployment of the integrated system within the existing infrastructure.                    |
 | **Year 3**         |                                                                                                        |
 | 24-27 Months       | Research phase abroad: collaboration with international artefact analysis teams for validation.         |
 | 27-30 Months       | Final testing, data validation, and refinement; collaboration with humanities scholars.                |
 | 30-33 Months       | Documentation and preparation of results for publication; development of training materials.           |
 | 33-36 Months       | Submission of dissertation; dissemination of findings through workshops and conferences.               |
+
 
