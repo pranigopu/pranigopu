@@ -161,6 +161,17 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
 
+**Learning Computer Vision**
+
+- **Goal 1**: Learn image and video processing
+- **Goal 2**: Implement deep learning models for classifying/learning from from images and videos
+- **Languages**: Python
+- **Keywords**: `image processing`, `video processing`, `computer vision`, `deep learning`
+
+[**See GitHub repository >>**](https://github.com/pranigopu/computerVision)
+
+---
+
 **ClingClick - A Mineable Obstacle-Maze Boss Fight**
 
 - **Goal**: Implement a boss fight against a pathfinding NPC in a mineable maze environment
