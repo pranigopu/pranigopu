@@ -165,7 +165,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 </details>
 <h1 id="highlighted-writings">:black_nib: HIGHLIGHTED WRITINGS AND PRESENTATIONS</h1>
 <details>
-  <summary><h2>Report on Transparency, Explainability and Accountability (TEA) in Artificial Intelligence (2024)</h2></summary>
+  <summary><h2>Report on Ethics in Artificial Intelligence (2024)</h2></summary>
   <h3>Overview</h3>
   <p>
     This report discusses the ethical and regulatory concerns surrounding transparency, explainability, and accountability in AI systems, providing a proposed framework for addressing these issues in industrial applications of AI.
