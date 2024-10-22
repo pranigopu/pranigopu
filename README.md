@@ -58,7 +58,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>bayesian inference</code>, <code>bayesian neural network</code>, <code>uncertainty quantification</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/masters-project" target="_blank"><h2>See GitHub repository >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/masters-project" target="_blank"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
@@ -86,8 +86,8 @@ Due to my last two major projects, I have substantial experience in designing, i
 
   <h3>Links</h3>
   <p>
-    <a href="https://github.com/pranigopu/diver-vs-mermaid" target="_blank"><h2>See GitHub repository >></h2></a> |
-    <a href="https://www.youtube.com/watch?v=sJMKtEH5r3g" target="_blank"><h2>See video presentation >></h2></a>
+    <a href="https://github.com/pranigopu/diver-vs-mermaid" target="_blank"><b>See GitHub repository >></b></a> |
+    <a href="https://www.youtube.com/watch?v=sJMKtEH5r3g" target="_blank"><b>See video presentation >></b></a>
   </p>
 </details>
 
@@ -115,7 +115,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p>60%</p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/key--tempo-deepLearning" target="_blank"><h2>See GitHub repository >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/key--tempo-deepLearning" target="_blank"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
@@ -142,7 +142,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p>57%</p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer" target="_blank"><h2>See GitHub repository >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer" target="_blank"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
@@ -170,9 +170,9 @@ Due to my last two major projects, I have substantial experience in designing, i
 
   <h3>Links</h3>
   <p>
-    <a href="https://github.com/nocommentcode/ecs7002_assignment_2" target="_blank"><h2>See GitHub team repository >></h2></a> |
-    <a href="https://github.com/pranigopu/frozenLake" target="_blank"><h2>See personal repository >></h2></a> |
-    <a href="https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf" target="_blank"><h2>See report >></h2></a>
+    <a href="https://github.com/nocommentcode/ecs7002_assignment_2" target="_blank"><b>See GitHub team repository >></b></a> |
+    <a href="https://github.com/pranigopu/frozenLake" target="_blank"><b>See personal repository >></b></a> |
+    <a href="https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf" target="_blank"><b>See report >></b></a>
   </p>
 </details>
 
@@ -201,8 +201,8 @@ Due to my last two major projects, I have substantial experience in designing, i
 
   <h3>Links</h3>
   <p>
-    <a href="https://github.com/grahaminn/AIinGames-Assignment1" target="_blank"><h2>See GitHub team repository >></h2></a> |
-    <a href="https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf" target="_blank"><h2>See report >></h2></a>
+    <a href="https://github.com/grahaminn/AIinGames-Assignment1" target="_blank"><b>See GitHub team repository >></b></a> |
+    <a href="https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf" target="_blank"><b>See report >></b></a>
   </p>
 </details>
 
@@ -226,7 +226,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>ai in industry</code>, <code>ethical framework</code>, <code>regulatory framework</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf" target="_blank"><h2>See in GitHub >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf" target="_blank"><b>See in GitHub >></b></a></p>
 </details>
 
 <details>
@@ -247,7 +247,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>cyclic dungeon generation</code>, <code>unexplored</code>, <code>procedural content generation</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf" target="_blank"><h2>See in GitHub >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf" target="_blank"><b>See in GitHub >></b></a></p>
 </details>
 
 <details>
@@ -268,7 +268,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>automated skills assessment</code>, <code>multimodal skills assessment</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation" target="_blank"><h2>See in GitHub >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation" target="_blank"><b>See in GitHub >></b></a></p>
 </details>
 
 <details>
@@ -289,7 +289,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>probability theory</code>, <code>statistical estimation</code>, <code>hypothesis testing</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://pranigopu.github.io/statistics/" target="_blank"><h2>See in personal website >></h2></a></p>
+  <p><a href="https://pranigopu.github.io/statistics/" target="_blank"><b>See in personal website >></b></a></p>
 </details>
 
 <details>
@@ -310,7 +310,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>number theory</code>, <code>pseudorandom number generation</code>, <code>cryptography</code>, <code>coding-decoding</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory" target="_blank"><h2>See in GitHub >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory" target="_blank"><b>See in GitHub >></b></a></p>
 </details>
 
 <h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
@@ -336,7 +336,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>image processing</code>, <code>video processing</code>, <code>computer vision</code>, <code>deep learning</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/computerVision" target="_blank"><h2>See GitHub repository >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/computerVision" target="_blank"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
@@ -360,7 +360,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>a-star pathfinding</code>, <code>mineable environment</code>, <code>inventory management</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/clingClick" target="_blank"><h2>See GitHub repository >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/clingClick" target="_blank"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
@@ -384,7 +384,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>minesweeper</code>, <code>terminal-based interface</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/mineSweeper" target="_blank"><h2>See GitHub repository >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/mineSweeper" target="_blank"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
@@ -429,7 +429,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>api calls</code>, <code>point and batch requests</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/algorithmicTrading" target="_blank"><h2>See GitHub repository >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/algorithmicTrading" target="_blank"><b>See GitHub repository >></b></a></p>
 
   <h3>Note</h3>
   <p>So far, I have only learned key concepts behind algorithmic trading and dealing with API requests and responses for data.</p>
@@ -456,7 +456,7 @@ Due to my last two major projects, I have substantial experience in designing, i
   <p><code>tic tac toe</code>, <code>ai opponent</code></p>
 
   <h3>Links</h3>
-  <p><a href="https://github.com/pranigopu/ticTacToe" target="_blank"><h2>See GitHub repository >></h2></a></p>
+  <p><a href="https://github.com/pranigopu/ticTacToe" target="_blank"><b>See GitHub repository >></b></a></p>
 
   <h3>Note</h3>
   <p>The "AI opponent" is a relatively basic algorithm designed to try to stump the player using a few simple strategies.</p>
