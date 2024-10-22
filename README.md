@@ -36,191 +36,196 @@ Due to my last two major projects, I have substantial experience in designing, i
  
 <h1 id="highlighted-projects">:hammer: HIGHLIGHTED PROJECTS</h1>
 
-**Comparative Evaluation of Bayesian Neural Networks (2024)**: <br> _Master's Thesis_
+<details>
+  <summary><b>Comparative Evaluation of Bayesian Neural Networks (2024)</b></summary>
+  <p><i>Master's Thesis</i></p>
+  <ul>
+    <li><b>Goal 1:</b> Present a clear link between Bayesian inference and Bayesian neural networks (BNNs) in practice</li>
+    <li><b>Goal 2:</b> Evaluate and compare the uncertainty quantification of distinct BNN methods</li>
+    <li><b>Languages:</b> Python using Jupyter Notebook</li>
+    <li><b>Keywords:</b> <code>bayesian inference</code>, <code>bayesian neural network</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a></p>
+</details>
 
-- **Goal 1**: Present a clear link between Bayesian inference and Bayesian neural networks (BNNs) in practice
-- **Goal 2**: Evaluate and compare the uncertainty quantification of distinct BNN methods
-- **Languages**: Python using Jupyter Notebook
-- **Keywords**: `bayesian inference`, `bayesian neural network`
+<details>
+  <summary><b>Implementing Cellular Automata and Behaviour Trees (2024)</b></summary>
+  <ul>
+    <li><b>Goal 1:</b> Design and implement cellular automata to procedurally generate “coral reef” terrains</li>
+    <li><b>Goal 2:</b> Design and implement behaviour trees to handle two agents (player and attacking mermaid).</li>
+    <li><b>Languages:</b> C# using Unity Game Engine</li>
+    <li><b>Keywords:</b> <code>unity</code>, <code>procedural content generation</code>, <code>behaviour tree</code></li>
+    <li><b>Grade:</b> 89%</li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/diver-vs-mermaid"><b>See GitHub repository >></b></a> | <a href="https://www.youtube.com/watch?v=sJMKtEH5r3g"><b>See video presentation >></b></a></p>
+</details>
 
-[**See GitHub repository >>**](https://github.com/pranigopu/masters-project)
+<details>
+  <summary><b>Implementing Convolutional and Recurrent Neural Networks for Music (2024)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Implement, train and present models for musical key recognition and tempo recognition</li>
+    <li><b>Languages:</b> Python using Jupyter Notebook</li>
+    <li><b>Keywords:</b> <code>convolutional neural network</code>, <code>bidirectional recurrent neural network</code></li>
+    <li><b>Grade:</b> 60%</li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/key--tempo-deepLearning"><b>See GitHub repository >></b></a></p>
+</details>
 
----
+<details>
+  <summary><b>Implementing Neural Style Transfer (NST) for Audio (2024)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Implement NST for transferring the style of an ambience to a musical piece</li>
+    <li><b>Languages:</b> Python using Google Colab</li>
+    <li><b>Keywords:</b> <code>convolutional neural network</code>, <code>neural style transfer</code></li>
+    <li><b>Grade:</b> 57%</li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer"><b>See GitHub repository >></b></a></p>
+</details>
 
-**Implementing Cellular Automata and Behaviour Trees (2024)**
+<details>
+  <summary><b>Implementing Reinforcement Learning (RL) Methods (2024)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Implement and test RL methods for navigating a simple grid-based obstacle course</li>
+    <li><b>Languages:</b> Python</li>
+    <li><b>Keywords:</b> <code>reinforcement learning</code>, <code>model-based</code>, <code>model-free</code>, <code>deep learning</code></li>
+    <li><b>Grade:</b> 96%</li>
+  </ul>
+  <p><a href="https://github.com/nocommentcode/ecs7002_assignment_2"><b>See GitHub team repository >></b></a> | <a href="https://github.com/pranigopu/frozenLake"><b>See GitHub personal repository >></b></a> | <a href="https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf"><b>See report >></b></a></p>
+</details>
 
-- **Goal 1**: Design and implement cellular automata to procedurally generate “coral reef” terrains
-- **Goal 2**: Design and implement behaviour trees to handle two agents (player and attacking mermaid).
-- **Languages**: C# using Unity Game Engine
-- **Keywords**: `unity`, `procedural content generation`, `behaviour tree`
-- **Grade**: 89%
+<details>
+  <summary><b>Enhancing Monte Carlo Tree Search (MCTS) (2023)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Improve the performance of an AI agent using basic MCTS in playing the card game "Sushi Go!"</li>
+    <li><b>Languages:</b> Java</li>
+    <li><b>Keywords:</b> <code>monte carlo tree search</code>, <code>bandit methods</code></li>
+    <li><b>Grade:</b> 94%</li>
+  </ul>
+  <p><a href="https://github.com/grahaminn/AIinGames-Assignment1"><b>See GitHub team repository >></b></a> | <a href="https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf"><b>See report >></b></a></p>
+  <p><i>NOTE:</i> I had no contribution to the final code due to mediocre results in IS-MCTS (Information Set Monte Carlo Tree Search) implementations. However, I was a major contributor to the final report.</p>
+</details>
 
-[**See GitHub repository >>**](https://github.com/pranigopu/diver-vs-mermaid) | [**See video presentation >>**](https://www.youtube.com/watch?v=sJMKtEH5r3g)
-
----
-
-**Implementing Convolutional and Recurrent Neural Networks for Music (2024)**
-
-- **Goal**: Implement, train and present models for musical key recognition and tempo recognition
-- **Languages**: Python using Jupyter Notebook
-- **Keywords**: `convolutional neural network`, `bidirectional recurrent neural network`
-- **Grade**: 60%
-
-[**See GitHub repository >>**](https://github.com/pranigopu/key--tempo-deepLearning)
-
----
-
-**Implementing Neural Style Transfer (NST) for Audio (2024)**
-
-- **Goal**: Implement NST for transferring the style of an ambience to a musical piece
-- **Languages**: Python using Google Colab
-- **Keywords**: `convolutional neural network`, `neural style transfer`
-- **Grade**: 57%
-
-[**See GitHub repository >>**](https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer)
-
----
-
-**Implementing Reinforcement Learning (RL) Methods (2024)**
-
-- **Goal**: Implement and test RL methods for navigating a simple grid-based obstacle course
-- **Languages**: Python
-- **Keywords**: `reinforcement learning`, `model-based`, `model-free`, `deep learning`
-- **Grade**: 96%
-
-[**See GitHub team repository >>**](https://github.com/nocommentcode/ecs7002_assignment_2) | [**See GitHub personal repository >>**](https://github.com/pranigopu/frozenLake) | [**See report >>**](https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf)
-
----
-
-**Enhancing Monte Carlo Tree Search (MCTS) (2023)**
-
-- **Goal**: Improve the performance of an AI agent using basic MCTS in playing the card game "Sushi Go!"
-- **Languages**: Java
-- **Keywords**: `monte carlo tree search`, `bandit methods`
-- **Grade**: 94%
-
-[**See GitHub team repository >>**](https://github.com/grahaminn/AIinGames-Assignment1) | [**See report >>**](https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf)
-
-**NOTE**: _I had no contribution to the final code due to mediocre results in IS-MCTS (Information Set Monte Carlo Tree Search) implementations. However, I was a major contributor to the final report._
-
----
-
-**Text Mining and Sentiment Analysis via Chrome Extension (2022)**
-
-- **Goal**: Create a Chrome extension to scrape a website's text and analyse the text
-- **Languages**: JavaScript, HTML, Python
- - **Keywords**: `chrome extension`, `django`, `text mining`, `sentiment analysis`
-- **Grade**: 81%
-
-[**See GitHub repository >>**](https://github.com/pranigopu/sentiMiner)
+<details>
+  <summary><b>Text Mining and Sentiment Analysis via Chrome Extension (2022)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Create a Chrome extension to scrape a website's text and analyse the text</li>
+    <li><b>Languages:</b> JavaScript, HTML, Python</li>
+    <li><b>Keywords:</b> <code>chrome extension</code>, <code>django</code>, <code>text mining</code>, <code>sentiment analysis</code></li>
+    <li><b>Grade:</b> 81%</li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/sentiMiner"><b>See GitHub repository >></b></a></p>
+</details>
 
 <h1 id="highlighted-writings">:black_nib: HIGHLIGHTED WRITINGS AND PRESENTATIONS</h1>
 
-**Report on Transparency, Explainability and Accountability (TEA) in Artificial Intelligence (AI) (2024)**
+<details>
+  <summary><b>Report on Transparency, Explainability and Accountability (TEA) in Artificial Intelligence (AI) (2024)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Present a reflection, case study and ethics framework proposal for implementing TEA in AI</li>
+    <li><b>Keywords:</b> <code>ai in industry</code>, <code>ethical framework</code>, <code>regulatory framework</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf"><b>See in GitHub >></b></a></p>
+</details>
 
-- **Goal**: Present a reflection, case study and ethics framework proposal for implementing TEA in AI
-- **Keywords**: `ai in industry`,  `ethical framework`, `regulatory framework`
+<details>
+  <summary><b>Industry Case Study on Procedural Generation (2024)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Present a case study on cyclic procedural generation from the game "Unexplored"</li>
+    <li><b>Keywords:</b> <code>cyclic dungeon generation</code>, <code>unexplored</code>, <code>procedural content generation</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a></p>
+</details>
 
-[**See in GitHub**](https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf)
+<details>
+  <summary><b>Presentation on a Paper in Deep Learning for Audio and Music</b></summary>
+  <ul>
+    <li><b>Goal:</b> Present the essentials of "Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</li>
+    <li><b>Keywords:</b> <code>automated skills assessment</code>, <code>multimodal skills assessment</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation"><b>See in GitHub >></b></a></p>
+</details>
 
----
+<details>
+  <summary><b>Technical Writings on Key Statistical Concepts (2023-2024)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Present a mathematically and conceptually rigorous overview of key statistical concepts</li>
+    <li><b>Keywords:</b> <code>probability theory</code>, <code>statistical estimation</code>, <code>hypothesis testing</code></li>
+  </ul>
+  <p><a href="https://pranigopu.github.io/statistics/"><b>See in personal website >></b></a></p>
+</details>
 
-**Industry Case Study on Procedural Generation (2024)**
-
-- **Goal**: Present a case study on cyclic procedural generation from the game "Unexplored"
-- **Keywords**: `cyclic dungeon generation`, `unexplored`, `procedural content generation`
-
-[**See in GitHub >>**](https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf)
-
----
-
-**Presentation on a Paper in Deep Learning for Audio and Music**
-
-- **Goal**: Present the essentials of "Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris
-- **Keywords**: `automated skills assessment`, `multimodal skills assessment`
-
-[**See in GitHub >>**](https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation)
-
----
-
-**Technical Writings on Key Statistical Concepts (2023-2024)**
-
-- **Goal**: Present a mathematically and conceptually rigorous overview of key statistical concepts
-- **Keywords**: `probability theory`, `statistical estimation`, `hypothesis testing`
-
-[**See in personal website >>**](https://pranigopu.github.io/statistics/)
-
----
-
-**Applications of Number Theory (2022)**
-
-- **Goal**: Present various real-world applications of number theory
-- **Keywords**: `number theory`, `pseudorandom number generation`, `cryptography`, `coding-decoding`
-
-[**See in GitHub >>**](https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory)
+<details>
+  <summary><b>Applications of Number Theory (2022)</b></summary>
+  <ul>
+    <li><b>Goal:</b> Present various real-world applications of number theory</li>
+    <li><b>Keywords:</b> <code>number theory</code>, <code>pseudorandom number generation</code>, <code>cryptography</code>, <code>coding-decoding</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory"><b>See in GitHub >></b></a></p>
+</details>
 
 <h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
 
-**Learning Computer Vision**
+<details>
+  <summary><b>Learning Computer Vision</b></summary>
+  <ul>
+    <li><b>Goal 1:</b> Learn image and video processing</li>
+    <li><b>Goal 2:</b> Implement deep learning models for classifying/learning from images and videos</li>
+    <li><b>Languages:</b> Python</li>
+    <li><b>Keywords:</b> <code>image processing</code>, <code>video processing</code>, <code>computer vision</code>, <code>deep learning</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/computerVision"><b>See GitHub repository >></b></a></p>
+</details>
 
-- **Goal 1**: Learn image and video processing
-- **Goal 2**: Implement deep learning models for classifying/learning from from images and videos
-- **Languages**: Python
-- **Keywords**: `image processing`, `video processing`, `computer vision`, `deep learning`
+<details>
+  <summary><b>ClingClick - A Mineable Obstacle-Maze Boss Fight</b></summary>
+  <ul>
+    <li><b>Goal:</b> Implement a boss fight against a pathfinding NPC in a mineable maze environment</li>
+    <li><b>Languages:</b> C</li>
+    <li><b>Keywords:</b> <code>a-star pathfinding</code>, <code>mineable environment</code>, <code>inventory management</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/clingClick"><b>See GitHub repository >></b></a></p>
+</details>
 
-[**See GitHub repository >>**](https://github.com/pranigopu/computerVision)
+<details>
+  <summary><b>MineSweeper Implementation in C</b></summary>
+  <ul>
+    <li><b>Goal:</b> Implement the classic MineSweeper game in C, using a terminal-based interface</li>
+    <li><b>Languages:</b> C</li>
+    <li><b>Keywords:</b> <code>minesweeper</code>, <code>terminal-based interface</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/mineSweeper"><b>See GitHub repository >></b></a></p>
+</details>
 
----
+<details>
+  <summary><b>Notes Manager</b></summary>
+  <ul>
+    <li><b>Goal:</b> Create a simple program to manage your notes (particularly study notes)</li>
+    <li><b>Languages:</b> Java</li>
+    <li><b>Keywords:</b> <code>file and directory management with java</code></li>
+  </ul>
+</details>
 
-**ClingClick - A Mineable Obstacle-Maze Boss Fight**
+<details>
+  <summary><b>Exploring Algorithmic Trading</b></summary>
+  <ul>
+    <li><b>Goal:</b> Explore algorithmic trading</li>
+    <li><b>Languages:</b> Python</li>
+    <li><b>Keywords:</b> <code>api calls</code>, <code>point and batch requests</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/algorithmicTrading"><b>See GitHub repository >></b></a></p>
+  <p><i>NOTE:</i> So far, I have only learnt key concepts behind algorithmic trading and dealing with API requests and responses for data.</p>
+</details>
 
-- **Goal**: Implement a boss fight against a pathfinding NPC in a mineable maze environment
-- **Languages**: C
-- **Keywords**: `a-star pathfinding`, `mineable environment`, `inventory management`
-
-[**See GitHub repository >>**](https://github.com/pranigopu/clingClick)
-
----
-
-**MineSweeper Implementation in C**
-
-- **Goal**: Implement the classic MineSweeper game in C, using a terminal-based interface
-- **Languages**: C
-- **Keywords**: `minesweeper`, `terminal-based interface`
-
-[**See GitHub repository >>**](https://github.com/pranigopu/mineSweeper)
-
----
-
-**Notes Manager**
-
-- **Goal**: Create a simple program to manage your notes (particularly study notes)
-- **Languages**: Java
-- **Keywords**: `file and directory management with java`
-
----
-
-**Exploring Algorithmic Trading**
-
-- **Goal**: Explore algorithmic trading
-- **Languages**: Python
-- **Keywords**: `api calls`, `point and batch requests`
-
-[**See GitHub repository >>**](https://github.com/pranigopu/algorithmicTrading)
-
-**NOTE**: _So far, I have only learnt key concepts behind algorithmic trading and dealing with API requests and responses for data._
-
----
-
-**Tic Tac Toe Implementation**
-
-- **Goal**: Implement tic tac toe (single-player and multiplayer)
-- **Languages**: C
-- **Keywords**: `tic tac toe`, `ai opponent`
-
-[**See GitHub repository >>**](https://github.com/pranigopu/ticTacToe)
-
-**NOTE**: _The "AI opponent" is a relatively basic algorithm to try to stump the player using a few simple strategies._
+<details>
+  <summary><b>Tic Tac Toe Implementation</b></summary>
+  <ul>
+    <li><b>Goal:</b> Implement tic tac toe (single-player and multiplayer)</li>
+    <li><b>Languages:</b> C</li>
+    <li><b>Keywords:</b> <code>tic tac toe</code>, <code>ai opponent</code></li>
+  </ul>
+  <p><a href="https://github.com/pranigopu/ticTacToe"><b>See GitHub repository >></b></a></p>
+  <p><i>NOTE:</i> The "AI opponent" is a relatively basic algorithm to try to stump the player using a few simple strategies.</p>
+</details>
 
 <!---
 pranigopu/pranigopu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
