@@ -250,7 +250,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 <td><b>Keywords</b></td><td><code>number theory</code>, <code>pseudorandom number generation</code>, <code>cryptography</code>, <code>coding-decoding</code></td>
 </tr>
 </table>
-<a href="https://pranigopu.github.io/mathematics/number-theory/applications-of-number-theory/"><b>See in GitHub >></b></a>
+<a href="https://pranigopu.github.io/mathematics/number-theory/applications-of-number-theory/"><b>See in personal website >></b></a>
 </details>
 
 <h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
