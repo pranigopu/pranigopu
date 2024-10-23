@@ -214,7 +214,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 
 <details>
 <summary><b>Presentation on a Paper in Deep Learning for Audio and Music</b></summary>
-<p>As a part of the deep learning for audio and music course, we students had to present a paper of our choice (either live or in video, with a live Q and A in either case). My chosen paper is <a href="https://arxiv.org/abs/2101.04884">"Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</a>. I chose this paper due to (1) my experience in piano assessment (as a student), (2) the relevance of such an application (ex. personal performance evaluation to help self-improvement), and (3) the interesting complexity of the problem of automating musical evaluation.</p>
+<p>As a part of the deep learning for audio and music course, we students had to present a paper of our choice (either live or in video, with a live Q and A in either case). My chosen paper is <a href="https://arxiv.org/abs/2101.04884">"Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</a>. I chose this paper due to (1) my experience in piano assessment (as a student), (2) the relevance of such an application (e.g. personal performance evaluation to help self-improvement), and (3) the interesting complexity of the problem of automating musical evaluation.</p>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Present "Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</td>
