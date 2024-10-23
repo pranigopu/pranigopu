@@ -39,13 +39,12 @@ Due to my last two major projects, I have substantial experience in designing, i
 <details>
 <summary><b>Comparative Evaluation of Bayesian Neural Networks (2024)</b></summary>
 <i>Master's Thesis</i><br>
-Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte Carlo (HMC) and variational inference (VI) — as applied to uncertainty quantification in Bayesian neural networks (BNNs) for regression problems. Drawing on existing research in computational BI and deep learning, this study presents the theoretical and practical progression from BI to BNNs, and demonstrates the effectiveness of uncertainty quantification of the two BNN implementations for regression problems. The HMC and VI BNN models were
-implemented using Tensorflow and PyTorch respectively.
+Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte Carlo (HMC) and variational inference (VI) — as applied to uncertainty quantification in Bayesian neural networks (BNNs) for regression problems. Drawing on existing research in computational BI and deep learning, this study presents the theoretical and practical progression from BI to BNNs, and demonstrates the effectiveness of uncertainty quantification of the two BNN implementations for regression problems. The HMC and VI BNN models were implemented using Tensorflow and PyTorch respectively.
 <br><br>
 <ul>
 <li><b>Goal 1:</b> Present a clear link between BI and BNNs in practice</li>
 <li><b>Goal 2:</b> Evaluate the performance of different BNN methods</li>
-<li><b>Languages:</b> Python using Jupyter Notebook</li>
+<li><b>Tools:</b> Python using Jupyter Notebook</li>
 <li><b>Keywords:</b> <code>bayesian inference</code>, <code>bayesian neural network</code></li>
 </ul>
 <p><a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a></p>
@@ -56,7 +55,7 @@ implemented using Tensorflow and PyTorch respectively.
 <ul>
 <li><b>Goal 1:</b> Design and implement cellular automata to procedurally generate “coral reef” terrains</li>
 <li><b>Goal 2:</b> Design and implement behaviour trees to handle two agents (player and attacking mermaid).</li>
-<li><b>Languages:</b> C# using Unity Game Engine</li>
+<li><b>Tools:</b> C# using Unity Game Engine</li>
 <li><b>Keywords:</b> <code>unity</code>, <code>procedural content generation</code>, <code>behaviour tree</code></li>
 <li><b>Grade:</b> 89%</li>
 </ul>
@@ -67,7 +66,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>Implementing Convolutional and Recurrent Neural Networks for Music (2024)</b></summary>
 <ul>
 <li><b>Goal:</b> Implement, train and present models for musical key recognition and tempo recognition</li>
-<li><b>Languages:</b> Python using Jupyter Notebook</li>
+<li><b>Tools:</b> Python using Jupyter Notebook</li>
 <li><b>Keywords:</b> <code>convolutional neural network</code>, <code>bidirectional recurrent neural network</code></li>
 <li><b>Grade:</b> 60%</li>
 </ul>
@@ -78,7 +77,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>Implementing Neural Style Transfer (NST) for Audio (2024)</b></summary>
 <ul>
 <li><b>Goal:</b> Implement NST for transferring the style of an ambience to a musical piece</li>
-<li><b>Languages:</b> Python using Google Colab</li>
+<li><b>Tools:</b> Python using Google Colab</li>
 <li><b>Keywords:</b> <code>convolutional neural network</code>, <code>neural style transfer</code></li>
 <li><b>Grade:</b> 57%</li>
 </ul>
@@ -89,7 +88,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>Implementing Reinforcement Learning (RL) Methods (2024)</b></summary>
 <ul>
 <li><b>Goal:</b> Implement and test RL methods for navigating a simple grid-based obstacle course</li>
-<li><b>Languages:</b> Python</li>
+<li><b>Tools:</b> Python</li>
 <li><b>Keywords:</b> <code>reinforcement learning</code>, <code>model-based</code>, <code>model-free</code>, <code>deep learning</code></li>
 <li><b>Grade:</b> 96%</li>
 </ul>
@@ -100,7 +99,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>Enhancing Monte Carlo Tree Search (MCTS) (2023)</b></summary>
 <ul>
 <li><b>Goal:</b> Improve the performance of an AI agent using basic MCTS in playing the card game "Sushi Go!"</li>
-<li><b>Languages:</b> Java</li>
+<li><b>Tools:</b> Java</li>
 <li><b>Keywords:</b> <code>monte carlo tree search</code>, <code>bandit methods</code></li>
 <li><b>Grade:</b> 94%</li>
 </ul>
@@ -112,7 +111,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>Text Mining and Sentiment Analysis via Chrome Extension (2022)</b></summary>
 <ul>
 <li><b>Goal:</b> Create a Chrome extension to scrape a website's text and analyse the text</li>
-<li><b>Languages:</b> JavaScript, HTML, Python</li>
+<li><b>Tools:</b> JavaScript, HTML, Python</li>
 <li><b>Keywords:</b> <code>chrome extension</code>, <code>django</code>, <code>text mining</code>, <code>sentiment analysis</code></li>
 <li><b>Grade:</b> 81%</li>
 </ul>
@@ -173,7 +172,7 @@ implemented using Tensorflow and PyTorch respectively.
 <ul>
 <li><b>Goal 1:</b> Learn image and video processing</li>
 <li><b>Goal 2:</b> Implement deep learning models for classifying/learning from images and videos</li>
-<li><b>Languages:</b> Python</li>
+<li><b>Tools:</b> Python</li>
 <li><b>Keywords:</b> <code>image processing</code>, <code>video processing</code>, <code>computer vision</code>, <code>deep learning</code></li>
 </ul>
 <p><a href="https://github.com/pranigopu/computerVision"><b>See GitHub repository >></b></a></p>
@@ -183,7 +182,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>ClingClick - A Mineable Obstacle-Maze Boss Fight</b></summary>
 <ul>
 <li><b>Goal:</b> Implement a boss fight against a pathfinding NPC in a mineable maze environment</li>
-<li><b>Languages:</b> C</li>
+<li><b>Tools:</b> C</li>
 <li><b>Keywords:</b> <code>a-star pathfinding</code>, <code>mineable environment</code>, <code>inventory management</code></li>
 </ul>
 <p><a href="https://github.com/pranigopu/clingClick"><b>See GitHub repository >></b></a></p>
@@ -193,7 +192,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>MineSweeper Implementation in C</b></summary>
 <ul>
 <li><b>Goal:</b> Implement the classic MineSweeper game in C, using a terminal-based interface</li>
-<li><b>Languages:</b> C</li>
+<li><b>Tools:</b> C</li>
 <li><b>Keywords:</b> <code>minesweeper</code>, <code>terminal-based interface</code></li>
 </ul>
 <p><a href="https://github.com/pranigopu/mineSweeper"><b>See GitHub repository >></b></a></p>
@@ -203,7 +202,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>Notes Manager</b></summary>
 <ul>
 <li><b>Goal:</b> Create a simple program to manage your notes (particularly study notes)</li>
-<li><b>Languages:</b> Java</li>
+<li><b>Tools:</b> Java</li>
 <li><b>Keywords:</b> <code>file and directory management with java</code></li>
 </ul>
 </details>
@@ -212,7 +211,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>Exploring Algorithmic Trading</b></summary>
 <ul>
 <li><b>Goal:</b> Explore algorithmic trading</li>
-<li><b>Languages:</b> Python</li>
+<li><b>Tools:</b> Python</li>
 <li><b>Keywords:</b> <code>api calls</code>, <code>point and batch requests</code></li>
 </ul>
 <p><a href="https://github.com/pranigopu/algorithmicTrading"><b>See GitHub repository >></b></a></p>
@@ -223,7 +222,7 @@ implemented using Tensorflow and PyTorch respectively.
 <summary><b>Tic Tac Toe Implementation</b></summary>
 <ul>
 <li><b>Goal:</b> Implement tic tac toe (single-player and multiplayer)</li>
-<li><b>Languages:</b> C</li>
+<li><b>Tools:</b> C</li>
 <li><b>Keywords:</b> <code>tic tac toe</code>, <code>ai opponent</code></li>
 </ul>
 <p><a href="https://github.com/pranigopu/ticTacToe"><b>See GitHub repository >></b></a></p>
