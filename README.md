@@ -41,7 +41,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte Carlo (HMC) and variational inference (VI) — as applied to uncertainty quantification in Bayesian neural networks (BNNs) for regression problems. Drawing on existing research in computational BI and deep learning, this study presents the theoretical and practical progression from BI to BNNs, and demonstrates the effectiveness of uncertainty quantification of the two BNN implementations for regression problems. The HMC and VI BNN models were implemented using Tensorflow and PyTorch respectively.
 <br>
 <a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal 1</b></td><td>Present a clear link between BI and BNNs in practice</td>
@@ -66,7 +66,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <br>
 <a href="https://github.com/pranigopu/diver-vs-mermaid"><b>See GitHub repository >></b></a> | 
 <a href="https://www.youtube.com/watch?v=sJMKtEH5r3g"><b>See video presentation >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal 1</b></td><td>Design cellular automata for coral reef terrains</td>
@@ -91,7 +91,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <p>Implement and train models for musical key recognition and tempo recognition using convolutional and recurrent neural networks.</p>
 <br>
 <a href="https://github.com/pranigopu/key--tempo-deepLearning"><b>See GitHub repository >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Train models for music key and tempo recognition</td>
@@ -113,7 +113,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <p>Implement neural style transfer (NST) to transfer the style of an ambient soundscape onto a musical piece using deep learning techniques.</p>
 <br>
 <a href="https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer"><b>See GitHub repository >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Apply NST to transfer ambient sound characteristics to music</td>
@@ -137,7 +137,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <a href="https://github.com/nocommentcode/ecs7002_assignment_2"><b>See GitHub team repository >></b></a> | 
 <a href="https://github.com/pranigopu/frozenLake"><b>See GitHub personal repository >></b></a> | 
 <a href="https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf"><b>See report >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Test RL methods on a grid-based obstacle course</td>
@@ -160,7 +160,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <br>
 <a href="https://github.com/grahaminn/AIinGames-Assignment1"><b>See GitHub team repository >></b></a> | 
 <a href="https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf"><b>See report >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Improve AI performance in playing "Sushi Go!" using MCTS</td>
@@ -183,7 +183,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <p>Develop a Chrome extension to scrape website text and perform sentiment analysis using Django and Python.</p>
 <br>
 <a href="https://github.com/pranigopu/sentiMiner"><b>See GitHub repository >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Scrape website text and analyse sentiment via Chrome extension</td>
@@ -207,7 +207,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <p>Present a reflection, case study, and ethics framework proposal for implementing TEA in AI systems.</p>
 <br>
 <a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf"><b>See in GitHub >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Reflect on TEA in AI systems, propose an ethics framework</td>
@@ -223,7 +223,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <p>Present a case study on cyclic procedural generation, with examples from the game "Unexplored".</p>
 <br>
 <a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a>
-<br><br>
+<br>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Discuss cyclic procedural generation using "Unexplored" as a case study</td>
