@@ -287,6 +287,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Exploring Algorithmic Trading</b></summary>
+<p><b>NOTE:</b> <i>So far, I have only learnt key concepts behind algorithmic trading and dealing with API requests and responses for data.</i></p>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Explore algorithmic trading</td>
@@ -299,11 +300,11 @@ Due to my last two major projects, I have substantial experience in designing, i
 </tr>
 </table>
 <a href="https://github.com/pranigopu/algorithmicTrading"><b>See GitHub repository >></b></a>
-<p><i>NOTE:</i> So far, I have only learnt key concepts behind algorithmic trading and dealing with API requests and responses for data.</p>
 </details>
 
 <details>
 <summary><b>Tic Tac Toe Implementation</b></summary>
+<p><b>NOTE:</b> <i>The "AI opponent" is a relatively basic algorithm to try to stump the player using a few simple strategies.</i></p>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Implement tic tac toe (single-player and multiplayer)</td>
@@ -316,7 +317,6 @@ Due to my last two major projects, I have substantial experience in designing, i
 </tr>
 </table>
 <a href="https://github.com/pranigopu/ticTacToe"><b>See GitHub repository >></b></a>
-<p><i>NOTE:</i> The "AI opponent" is a relatively basic algorithm to try to stump the player using a few simple strategies.</p>
 </details>
 
 <!---
