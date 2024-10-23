@@ -2,8 +2,6 @@
 
 **_Hi, I'm Prani Gopu a.k.a. Pranav Gopalkrishna_** 👋
 
----
-
 <table>
 <tr>
 <td>:mailbox: <b>Email</b></td>
