@@ -212,6 +212,47 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 <a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a>
 </details>
 
+<details>
+<summary><b>Presentation on a Paper in Deep Learning for Audio and Music</b></summary>
+<p>As a part of the deep learning for audio and music course, we students had to present a paper of our choice (either live or in video, with a live Q and A in either case). My chosen paper is <a href="https://arxiv.org/abs/2101.04884">"Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</a>. I chose this paper due to (1) my experience in piano assessment (as a student), (2) the relevance of such an application (ex. personal performance evaluation to help self-improvement), and (3) the interesting complexity of the problem of automating musical evaluation.</p>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Present "Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>automated skills assessment</code>, <code>multimodal skills assessment</code></td>
+</tr>
+</table>
+<a href="https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation"><b>See in GitHub >></b></a>
+</details>
+
+<details>
+<summary><b>Technical Writings on Key Statistical Concepts (2023-2024)</b></summary>
+<p>I have often found statistics a dense subject, both in practice (e.g. sampling, statistical formulae and calculations, etc.) and theory (e.g. inference methods, mathematical expectation, theoretical distributions, etc.). Clearly, it is a subject having an immense depth of abstraction while also having extensive practical uses, which makes it relevant and valuable to solidify the basis of key statistical concepts, ideas and formulae. This is what I aim to do with these writings.</p>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Present a rigorous overview of key statistical concepts</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>probability theory</code>, <code>statistical estimation</code>, <code>hypothesis testing</code></td>
+</tr>
+</table>
+<a href="https://pranigopu.github.io/statistics/"><b>See in personal website >></b></a>
+</details>
+
+<details>
+<summary><b>Applications of Number Theory (2022)</b></summary>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Present various real-world applications of number theory</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>number theory</code>, <code>pseudorandom number generation</code>, <code>cryptography</code>, <code>coding-decoding</code></td>
+</tr>
+</table>
+<a href="https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory"><b>See in GitHub >></b></a>
+</details>
+
 <h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
 
 <details>
