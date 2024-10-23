@@ -39,7 +39,6 @@ Due to my last two major projects, I have substantial experience in designing, i
 <details>
 <summary><b>Comparative Evaluation of Bayesian Neural Networks (2024)</b> <i>(Master's Thesis)</i></summary>
 <p>Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte Carlo (HMC) and variational inference (VI) — as applied to uncertainty quantification in Bayesian neural networks (BNNs) for regression problems. Drawing on existing research in computational BI and deep learning, this study presents the theoretical and practical progression from BI to BNNs, and demonstrates the effectiveness of uncertainty quantification of the two BNN implementations for regression problems. The HMC and VI BNN models were implemented using Tensorflow and PyTorch respectively.</p>
-
 <a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a>
 <br>
 <table>
@@ -58,12 +57,9 @@ Due to my last two major projects, I have substantial experience in designing, i
 </table>
 </details>
 
-<h1 id="highlighted-projects">:hammer: HIGHLIGHTED PROJECTS</h1>
-
 <details>
 <summary><b>Implementing Cellular Automata and Behaviour Trees (2024)</b></summary>
-<p>Design and implement cellular automata to procedurally generate “coral reef” terrains, and implement behaviour trees to handle two agents: player and attacking mermaid.</p>
-
+<p>This project focused on (1) designing cellular automata to procedurally generate "coral reef" terrains and (2) implementing behavior trees for two agents: a diver (player) and a mermaid (AI). A key challenge was designing three distinct cellular automata that generated diverse yet coherent terrain, maintaining the natural aesthetics of coral reefs while offering gameplay variety. The game evolved into a simple but engaging challenge where the player must collect five artifacts while evading the mermaid's ranged and melee attacks. Coral reefs provided hiding spots but slowed the diver if spotted, balancing stealth and vulnerability. The player’s score depends on time taken and remaining health, adding tension and strategy to the gameplay.</p>
 <a href="https://github.com/pranigopu/diver-vs-mermaid"><b>See GitHub repository >></b></a> | 
 <a href="https://www.youtube.com/watch?v=sJMKtEH5r3g"><b>See video presentation >></b></a>
 <br>
@@ -88,8 +84,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Implementing Convolutional and Recurrent Neural Networks for Music (2024)</b></summary>
-<p>Implement and train models for musical key recognition and tempo recognition using convolutional and recurrent neural networks.</p>
-
+<p>Developed a machine learning system to recognise musical keys and tempo using convolutional neural networks (CNNs) and bidirectional recurrent neural networks (BRNNs) respectively, both implemented with Keras. Audio data was pre-processed into Mel spectrograms and segmented with Librosa, then combined through an end-to-end system for predictions. This project sharpened skills in ML architecture selection, data pre-processing, and result integration.</p>
 <a href="https://github.com/pranigopu/key--tempo-deepLearning"><b>See GitHub repository >></b></a>
 <br>
 <table>
@@ -110,8 +105,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Implementing Neural Style Transfer (NST) for Audio (2024)</b></summary>
-<p>Implement neural style transfer (NST) to transfer the style of an ambient soundscape onto a musical piece using deep learning techniques.</p>
-
+<p>Implemented neural style transfer (NST) to blend ambient soundtracks with melodic compositions. Developed a CNN for genre classification (implemented with Keras) and integrated it into a custom NST algorithm for audio (handling tensor operations using Tensorflow). Created an end-to-end interface on Google Colab for seamless audio processing and style transfer. Despite noisy outputs, the project provided insights into the potential and limitations of applying NST to audio.</p>
 <a href="https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer"><b>See GitHub repository >></b></a>
 <br>
 <table>
@@ -132,8 +126,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Implementing Reinforcement Learning (RL) Methods (2024)</b></summary>
-<p>Implement and test reinforcement learning methods for navigating a grid-based obstacle course using model-based and model-free approaches.</p>
-
+<p>Implemented and tested RL methods for navigating a grid-based obstacle course (the "frozen lake" environment defined for the assignment) using model-based approaches (i.e. policy iteration and value iteration), model-free approaches (i.e. SARSA, Q-Learning, linear SARSA and linear Q-learning) and a deep learning approach (i.e. Deep-Q learning). This was a team project, but while the team worked together for the report and experiments, the RL methods were implemented by each member independently. Hence, this project solidified my grasp of RL methods, their effectiveness and their limitations/drawbacks. This project also challenged my problem-solving skills and strengthened my ability to collaborate.</p>
 <a href="https://github.com/nocommentcode/ecs7002_assignment_2"><b>See GitHub team repository >></b></a> | 
 <a href="https://github.com/pranigopu/frozenLake"><b>See GitHub personal repository >></b></a> | 
 <a href="https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf"><b>See report >></b></a>
@@ -156,8 +149,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Enhancing Monte Carlo Tree Search (MCTS) (2023)</b></summary>
-<p>Improve the performance of an AI agent using basic Monte Carlo Tree Search (MCTS) in playing the card game "Sushi Go!".</p>
-
+<p>This project aimed to enhance the basic MCTS algorithm within the Tabletop Games Framework to improve performance against other agents in "Sushi Go!" I collaborated with two teammates, proposing methods such as hard pruning, Bayes-UCB sampling, and Thompson sampling (our winning solution). Although I introduced IS-MCTS, my implementation underperformed, resulting in no contribution to the final code. Instead, I ran the final experiments and data collection and made significant contributions to the project report, covering MCTS theory, the exploration-exploitation dilemma, and multi-root MCTS. Our final agent, using Thompson sampling, outperformed all other enhancements in our class, earning a final grade of 94% for our project.</p>
 <a href="https://github.com/grahaminn/AIinGames-Assignment1"><b>See GitHub team repository >></b></a> | 
 <a href="https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf"><b>See report >></b></a>
 <br>
@@ -180,8 +172,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Text Mining and Sentiment Analysis via Chrome Extension (2022)</b></summary>
-<p>Develop a Chrome extension to scrape website text and perform sentiment analysis using Django and Python.</p>
-
+<p>Developed a Chrome extension for text mining and sentiment analysis on web pages. Created the extension and integrated its popup-based frontend with the backend using Django (hosted locally). The backend runs Python code for text mining and sentiment analysis (based on code written by a teammate). The prototype generates a word cloud, word frequency chart, and sentiment pie chart.</p>
 <a href="https://github.com/pranigopu/sentiMiner"><b>See GitHub repository >></b></a>
 <br>
 <table>
@@ -205,7 +196,6 @@ Due to my last two major projects, I have substantial experience in designing, i
 <details>
 <summary><b>Report on Transparency, Explainability, and Accountability (TEA) in AI (2024)</b></summary>
 <p>Present a reflection, case study, and ethics framework proposal for implementing TEA in AI systems.</p>
-
 <a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf"><b>See in GitHub >></b></a>
 <br>
 <table>
@@ -221,7 +211,6 @@ Due to my last two major projects, I have substantial experience in designing, i
 <details>
 <summary><b>Industry Case Study on Procedural Generation (2024)</b></summary>
 <p>Present a case study on cyclic procedural generation, with examples from the game "Unexplored".</p>
-
 <a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a>
 <br>
 <table>
