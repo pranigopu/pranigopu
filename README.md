@@ -38,8 +38,8 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Comparative Evaluation of Bayesian Neural Networks (2024)</b> <i>(Master's Thesis)</i></summary>
-Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte Carlo (HMC) and variational inference (VI) — as applied to uncertainty quantification in Bayesian neural networks (BNNs) for regression problems. Drawing on existing research in computational BI and deep learning, this study presents the theoretical and practical progression from BI to BNNs, and demonstrates the effectiveness of uncertainty quantification of the two BNN implementations for regression problems. The HMC and VI BNN models were implemented using Tensorflow and PyTorch respectively.
-<br>
+<p>Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte Carlo (HMC) and variational inference (VI) — as applied to uncertainty quantification in Bayesian neural networks (BNNs) for regression problems. Drawing on existing research in computational BI and deep learning, this study presents the theoretical and practical progression from BI to BNNs, and demonstrates the effectiveness of uncertainty quantification of the two BNN implementations for regression problems. The HMC and VI BNN models were implemented using Tensorflow and PyTorch respectively.</p>
+
 <a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a>
 <br>
 <table>
@@ -63,7 +63,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <details>
 <summary><b>Implementing Cellular Automata and Behaviour Trees (2024)</b></summary>
 <p>Design and implement cellular automata to procedurally generate “coral reef” terrains, and implement behaviour trees to handle two agents: player and attacking mermaid.</p>
-<br>
+
 <a href="https://github.com/pranigopu/diver-vs-mermaid"><b>See GitHub repository >></b></a> | 
 <a href="https://www.youtube.com/watch?v=sJMKtEH5r3g"><b>See video presentation >></b></a>
 <br>
@@ -89,7 +89,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <details>
 <summary><b>Implementing Convolutional and Recurrent Neural Networks for Music (2024)</b></summary>
 <p>Implement and train models for musical key recognition and tempo recognition using convolutional and recurrent neural networks.</p>
-<br>
+
 <a href="https://github.com/pranigopu/key--tempo-deepLearning"><b>See GitHub repository >></b></a>
 <br>
 <table>
@@ -111,7 +111,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <details>
 <summary><b>Implementing Neural Style Transfer (NST) for Audio (2024)</b></summary>
 <p>Implement neural style transfer (NST) to transfer the style of an ambient soundscape onto a musical piece using deep learning techniques.</p>
-<br>
+
 <a href="https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer"><b>See GitHub repository >></b></a>
 <br>
 <table>
@@ -133,7 +133,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <details>
 <summary><b>Implementing Reinforcement Learning (RL) Methods (2024)</b></summary>
 <p>Implement and test reinforcement learning methods for navigating a grid-based obstacle course using model-based and model-free approaches.</p>
-<br>
+
 <a href="https://github.com/nocommentcode/ecs7002_assignment_2"><b>See GitHub team repository >></b></a> | 
 <a href="https://github.com/pranigopu/frozenLake"><b>See GitHub personal repository >></b></a> | 
 <a href="https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf"><b>See report >></b></a>
@@ -157,7 +157,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <details>
 <summary><b>Enhancing Monte Carlo Tree Search (MCTS) (2023)</b></summary>
 <p>Improve the performance of an AI agent using basic Monte Carlo Tree Search (MCTS) in playing the card game "Sushi Go!".</p>
-<br>
+
 <a href="https://github.com/grahaminn/AIinGames-Assignment1"><b>See GitHub team repository >></b></a> | 
 <a href="https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf"><b>See report >></b></a>
 <br>
@@ -181,7 +181,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <details>
 <summary><b>Text Mining and Sentiment Analysis via Chrome Extension (2022)</b></summary>
 <p>Develop a Chrome extension to scrape website text and perform sentiment analysis using Django and Python.</p>
-<br>
+
 <a href="https://github.com/pranigopu/sentiMiner"><b>See GitHub repository >></b></a>
 <br>
 <table>
@@ -205,7 +205,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <details>
 <summary><b>Report on Transparency, Explainability, and Accountability (TEA) in AI (2024)</b></summary>
 <p>Present a reflection, case study, and ethics framework proposal for implementing TEA in AI systems.</p>
-<br>
+
 <a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf"><b>See in GitHub >></b></a>
 <br>
 <table>
@@ -221,7 +221,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <details>
 <summary><b>Industry Case Study on Procedural Generation (2024)</b></summary>
 <p>Present a case study on cyclic procedural generation, with examples from the game "Unexplored".</p>
-<br>
+
 <a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a>
 <br>
 <table>
