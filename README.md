@@ -53,7 +53,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 <td><b>Keywords</b></td><td><code>bayesian inference</code>, <code>bayesian neural network</code></td>
 </tr>
 </table>
-<a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a>
+<a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a> | <a href="https://github.com/pranigopu/mastersProject/blob/main/deliverables/dissertation/dissertation.pdf"><b>See dissertation >></b></a>
 </details>
 
 <details>
@@ -187,9 +187,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Report on Transparency, Explainability, and Accountability (TEA) in AI (2024)</b></summary>
-<p>Present a reflection, case study, and ethics framework proposal for implementing TEA in AI systems.</p>
-<a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf"><b>See in GitHub >></b></a>
-<br>
+<p>This report aims to address some relevant ethical ideas in AI, primarily transparency, explainability and accountability. Further, it aims to integrate these ideas with technical/business requirements, explore AI ethics using a case study involving an ethical and legal/regulatory breach in AI use and finally, explore the application of AI ethics in a hypothetical case involving the development of an ethical framework for a particular technical/business context.</p>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Reflect on TEA in AI systems, propose an ethics framework</td>
@@ -197,14 +195,16 @@ Due to my last two major projects, I have substantial experience in designing, i
 <tr>
 <td><b>Keywords</b></td><td><code>ai in industry</code>, <code>ethical framework</code></td>
 </tr>
+<tr>
+<td><b>Grade</b></td><td>71%</td>
+</tr>
 </table>
+<a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf"><b>See in GitHub >></b></a>
 </details>
 
 <details>
 <summary><b>Industry Case Study on Procedural Generation (2024)</b></summary>
-<p>Present a case study on cyclic procedural generation, with examples from the game "Unexplored".</p>
-<a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a>
-<br>
+<p>Unexplored is a video game — specifically a roguelite action-RPG dungeon-crawler — that applies procedural content generation (PCG) to create dungeon levels (20 overall), including puzzles and encounters. As the case study explores, cyclic generation is the keystone innovation that makes Unexplored stand apart in terms of both game-design and gameplay. This report focuses on the idea of cyclic dungeon generation, its implementation in Unexplored and how abstract level-design is concretised into playable levels.</p>
 <table>
 <tr>
 <td><b>Goal</b></td><td>Discuss cyclic procedural generation using "Unexplored" as a case study</td>
@@ -213,68 +213,107 @@ Due to my last two major projects, I have substantial experience in designing, i
 <td><b>Keywords</b></td><td><code>cyclic dungeon generation</code>, <code>procedural content generation</code></td>
 </tr>
 </table>
+<a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a>
 </details>
 
 <h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
 
 <details>
 <summary><b>Learning Computer Vision</b></summary>
-<ul>
-<li><b>Goal 1:</b> Learn image and video processing</li>
-<li><b>Goal 2:</b> Implement deep learning models for classifying/learning from images and videos</li>
-<li><b>Tools:</b> Python</li>
-<li><b>Keywords:</b> <code>image processing</code>, <code>video processing</code>, <code>computer vision</code>, <code>deep learning</code></li>
-</ul>
+<table>
+<tr>
+<td><b>Goal 1</b></td><td>Learn image and video processing</td>
+</tr>
+<tr>
+<td><b>Goal 2</b></td><td>Implement deep learning models to analyse images and videos</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>Python</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>image processing</code>, <code>video processing</code>, <code>computer vision</code>, <code>deep learning</code></td>
+</tr>
+</table>
 <p><a href="https://github.com/pranigopu/computerVision"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
 <summary><b>ClingClick - A Mineable Obstacle-Maze Boss Fight</b></summary>
-<ul>
-<li><b>Goal:</b> Implement a boss fight against a pathfinding NPC in a mineable maze environment</li>
-<li><b>Tools:</b> C</li>
-<li><b>Keywords:</b> <code>a-star pathfinding</code>, <code>mineable environment</code>, <code>inventory management</code></li>
-</ul>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Implement a boss fight against a pathfinding NPC in a mineable maze environment</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>C</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>a-star pathfinding</code>, <code>mineable environment</code>, <code>inventory management</code></td>
+</tr>
+</table>
 <p><a href="https://github.com/pranigopu/clingClick"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
 <summary><b>MineSweeper Implementation in C</b></summary>
-<ul>
-<li><b>Goal:</b> Implement the classic MineSweeper game in C, using a terminal-based interface</li>
-<li><b>Tools:</b> C</li>
-<li><b>Keywords:</b> <code>minesweeper</code>, <code>terminal-based interface</code></li>
-</ul>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Implement the classic MineSweeper game in C, using a terminal-based interface</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>C</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>minesweeper</code>, <code>terminal-based interface</code></td>
+</tr>
+</table>
 <p><a href="https://github.com/pranigopu/mineSweeper"><b>See GitHub repository >></b></a></p>
 </details>
 
 <details>
 <summary><b>Notes Manager</b></summary>
-<ul>
-<li><b>Goal:</b> Create a simple program to manage your notes (particularly study notes)</li>
-<li><b>Tools:</b> Java</li>
-<li><b>Keywords:</b> <code>file and directory management with java</code></li>
-</ul>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Create a simple program to manage your notes (particularly study notes)</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>Java</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>file and directory management with java</code></td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary><b>Exploring Algorithmic Trading</b></summary>
-<ul>
-<li><b>Goal:</b> Explore algorithmic trading</li>
-<li><b>Tools:</b> Python</li>
-<li><b>Keywords:</b> <code>api calls</code>, <code>point and batch requests</code></li>
-</ul>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Explore algorithmic trading</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>Python</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>api calls</code>, <code>point and batch requests</code></td>
+</tr>
+</table>
 <p><a href="https://github.com/pranigopu/algorithmicTrading"><b>See GitHub repository >></b></a></p>
 <p><i>NOTE:</i> So far, I have only learnt key concepts behind algorithmic trading and dealing with API requests and responses for data.</p>
 </details>
 
 <details>
 <summary><b>Tic Tac Toe Implementation</b></summary>
-<ul>
-<li><b>Goal:</b> Implement tic tac toe (single-player and multiplayer)</li>
-<li><b>Tools:</b> C</li>
-<li><b>Keywords:</b> <code>tic tac toe</code>, <code>ai opponent</code></li>
-</ul>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Implement tic tac toe (single-player and multiplayer)</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>C</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>tic tac toe</code>, <code>ai opponent</code></td>
+</tr>
+</table>
 <p><a href="https://github.com/pranigopu/ticTacToe"><b>See GitHub repository >></b></a></p>
 <p><i>NOTE:</i> The "AI opponent" is a relatively basic algorithm to try to stump the player using a few simple strategies.</p>
 </details>
