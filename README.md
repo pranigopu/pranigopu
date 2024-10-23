@@ -234,7 +234,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 <td><b>Keywords</b></td><td><code>image processing</code>, <code>video processing</code>, <code>computer vision</code>, <code>deep learning</code></td>
 </tr>
 </table>
-<p><a href="https://github.com/pranigopu/computerVision"><b>See GitHub repository >></b></a></p>
+<a href="https://github.com/pranigopu/computerVision"><b>See GitHub repository >></b></a>
 </details>
 
 <details>
@@ -250,7 +250,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 <td><b>Keywords</b></td><td><code>a-star pathfinding</code>, <code>mineable environment</code>, <code>inventory management</code></td>
 </tr>
 </table>
-<p><a href="https://github.com/pranigopu/clingClick"><b>See GitHub repository >></b></a></p>
+<a href="https://github.com/pranigopu/clingClick"><b>See GitHub repository >></b></a>
 </details>
 
 <details>
@@ -266,7 +266,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 <td><b>Keywords</b></td><td><code>minesweeper</code>, <code>terminal-based interface</code></td>
 </tr>
 </table>
-<p><a href="https://github.com/pranigopu/mineSweeper"><b>See GitHub repository >></b></a></p>
+<a href="https://github.com/pranigopu/mineSweeper"><b>See GitHub repository >></b></a>
 </details>
 
 <details>
@@ -282,6 +282,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 <td><b>Keywords</b></td><td><code>file and directory management with java</code></td>
 </tr>
 </table>
+<a href="https://github.com/pranigopu/notesManager"><b>See GitHub repository >></b></a>
 </details>
 
 <details>
@@ -297,7 +298,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 <td><b>Keywords</b></td><td><code>api calls</code>, <code>point and batch requests</code></td>
 </tr>
 </table>
-<p><a href="https://github.com/pranigopu/algorithmicTrading"><b>See GitHub repository >></b></a></p>
+<a href="https://github.com/pranigopu/algorithmicTrading"><b>See GitHub repository >></b></a>
 <p><i>NOTE:</i> So far, I have only learnt key concepts behind algorithmic trading and dealing with API requests and responses for data.</p>
 </details>
 
@@ -314,7 +315,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 <td><b>Keywords</b></td><td><code>tic tac toe</code>, <code>ai opponent</code></td>
 </tr>
 </table>
-<p><a href="https://github.com/pranigopu/ticTacToe"><b>See GitHub repository >></b></a></p>
+<a href="https://github.com/pranigopu/ticTacToe"><b>See GitHub repository >></b></a>
 <p><i>NOTE:</i> The "AI opponent" is a relatively basic algorithm to try to stump the player using a few simple strategies.</p>
 </details>
 
