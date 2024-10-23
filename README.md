@@ -17,8 +17,6 @@
 </tr>
 </table>
 
----
-
 :mag: <a href="#introduction">Introduction</a><br>
 :hammer: <a href="#highlighted-projects">Highlighted Projects</a><br>
 :black_nib: <a href="#highlighted-writings">Highlighted Writings and Presentations</a><br>
