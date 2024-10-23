@@ -17,7 +17,7 @@
 </tr>
 </table>
 
-**Contents**:
+**Navigate...**
 
 :mag: <a href="#introduction">Introduction</a><br>
 :hammer: <a href="#highlighted-projects">Highlighted Projects</a><br>
