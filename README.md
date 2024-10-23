@@ -38,7 +38,6 @@ Due to my last two major projects, I have substantial experience in designing, i
 
 <details>
 <summary><b>Comparative Evaluation of Bayesian Neural Networks (2024)</b> <i>(Master's Thesis)</i></summary>
-<a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a><br>
 Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte Carlo (HMC) and variational inference (VI) — as applied to uncertainty quantification in Bayesian neural networks (BNNs) for regression problems. Drawing on existing research in computational BI and deep learning, this study presents the theoretical and practical progression from BI to BNNs, and demonstrates the effectiveness of uncertainty quantification of the two BNN implementations for regression problems. The HMC and VI BNN models were implemented using Tensorflow and PyTorch respectively.
 <br>
 <table>
@@ -55,6 +54,7 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 <td><b>Keywords</b></td><td><code>bayesian inference</code>, <code>bayesian neural network</code></td>
 </tr>
 </table>
+<a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a>
 </details>
 
 <details>
