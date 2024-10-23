@@ -41,7 +41,7 @@ Due to my last two major projects, I have substantial experience in designing, i
 Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte Carlo (HMC) and variational inference (VI) — as applied to uncertainty quantification in Bayesian neural networks (BNNs) for regression problems. Drawing on existing research in computational BI and deep learning, this study presents the theoretical and practical progression from BI to BNNs, and demonstrates the effectiveness of uncertainty quantification of the two BNN implementations for regression problems. The HMC and VI BNN models were implemented using Tensorflow and PyTorch respectively.
 <br>
 <a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a>
-<br>
+<br><br>
 <table>
 <tr>
 <td><b>Goal 1</b></td><td>Present a clear link between BI and BNNs in practice</td>
@@ -58,119 +58,180 @@ Evaluates and compares two Bayesian inference (BI) methods — Hamiltonian Monte
 </table>
 </details>
 
+<h1 id="highlighted-projects">:hammer: HIGHLIGHTED PROJECTS</h1>
+
 <details>
 <summary><b>Implementing Cellular Automata and Behaviour Trees (2024)</b></summary>
-<ul>
-<li><b>Goal 1:</b> Design and implement cellular automata to procedurally generate “coral reef” terrains</li>
-<li><b>Goal 2:</b> Design and implement behaviour trees to handle two agents (player and attacking mermaid).</li>
-<li><b>Tools:</b> C# using Unity Game Engine</li>
-<li><b>Keywords:</b> <code>unity</code>, <code>procedural content generation</code>, <code>behaviour tree</code></li>
-<li><b>Grade:</b> 89%</li>
-</ul>
-<p><a href="https://github.com/pranigopu/diver-vs-mermaid"><b>See GitHub repository >></b></a> | <a href="https://www.youtube.com/watch?v=sJMKtEH5r3g"><b>See video presentation >></b></a></p>
+<p>Design and implement cellular automata to procedurally generate “coral reef” terrains, and implement behaviour trees to handle two agents: player and attacking mermaid.</p>
+<br>
+<a href="https://github.com/pranigopu/diver-vs-mermaid"><b>See GitHub repository >></b></a> | 
+<a href="https://www.youtube.com/watch?v=sJMKtEH5r3g"><b>See video presentation >></b></a>
+<br><br>
+<table>
+<tr>
+<td><b>Goal 1</b></td><td>Design cellular automata for coral reef terrains</td>
+</tr>
+<tr>
+<td><b>Goal 2</b></td><td>Implement behaviour trees for NPC and player agents</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>C# using Unity Game Engine</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>unity</code>, <code>procedural content generation</code>, <code>behaviour tree</code></td>
+</tr>
+<tr>
+<td><b>Grade</b></td><td>89%</td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary><b>Implementing Convolutional and Recurrent Neural Networks for Music (2024)</b></summary>
-<ul>
-<li><b>Goal:</b> Implement, train and present models for musical key recognition and tempo recognition</li>
-<li><b>Tools:</b> Python using Jupyter Notebook</li>
-<li><b>Keywords:</b> <code>convolutional neural network</code>, <code>bidirectional recurrent neural network</code></li>
-<li><b>Grade:</b> 60%</li>
-</ul>
-<p><a href="https://github.com/pranigopu/key--tempo-deepLearning"><b>See GitHub repository >></b></a></p>
+<p>Implement and train models for musical key recognition and tempo recognition using convolutional and recurrent neural networks.</p>
+<br>
+<a href="https://github.com/pranigopu/key--tempo-deepLearning"><b>See GitHub repository >></b></a>
+<br><br>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Train models for music key and tempo recognition</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>Python using Jupyter Notebook</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>convolutional neural network</code>, <code>bidirectional recurrent neural network</code></td>
+</tr>
+<tr>
+<td><b>Grade</b></td><td>60%</td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary><b>Implementing Neural Style Transfer (NST) for Audio (2024)</b></summary>
-<ul>
-<li><b>Goal:</b> Implement NST for transferring the style of an ambience to a musical piece</li>
-<li><b>Tools:</b> Python using Google Colab</li>
-<li><b>Keywords:</b> <code>convolutional neural network</code>, <code>neural style transfer</code></li>
-<li><b>Grade:</b> 57%</li>
-</ul>
-<p><a href="https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer"><b>See GitHub repository >></b></a></p>
+<p>Implement neural style transfer (NST) to transfer the style of an ambient soundscape onto a musical piece using deep learning techniques.</p>
+<br>
+<a href="https://github.com/pranigopu/ambience-to-music-neuralStyleTransfer"><b>See GitHub repository >></b></a>
+<br><br>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Apply NST to transfer ambient sound characteristics to music</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>Python using Google Colab</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>neural style transfer</code>, <code>convolutional neural network</code></td>
+</tr>
+<tr>
+<td><b>Grade</b></td><td>57%</td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary><b>Implementing Reinforcement Learning (RL) Methods (2024)</b></summary>
-<ul>
-<li><b>Goal:</b> Implement and test RL methods for navigating a simple grid-based obstacle course</li>
-<li><b>Tools:</b> Python</li>
-<li><b>Keywords:</b> <code>reinforcement learning</code>, <code>model-based</code>, <code>model-free</code>, <code>deep learning</code></li>
-<li><b>Grade:</b> 96%</li>
-</ul>
-<p><a href="https://github.com/nocommentcode/ecs7002_assignment_2"><b>See GitHub team repository >></b></a> | <a href="https://github.com/pranigopu/frozenLake"><b>See GitHub personal repository >></b></a> | <a href="https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf"><b>See report >></b></a></p>
+<p>Implement and test reinforcement learning methods for navigating a grid-based obstacle course using model-based and model-free approaches.</p>
+<br>
+<a href="https://github.com/nocommentcode/ecs7002_assignment_2"><b>See GitHub team repository >></b></a> | 
+<a href="https://github.com/pranigopu/frozenLake"><b>See GitHub personal repository >></b></a> | 
+<a href="https://github.com/pranigopu/frozenLake/blob/main/report/finalReport.pdf"><b>See report >></b></a>
+<br><br>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Test RL methods on a grid-based obstacle course</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>Python</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>reinforcement learning</code>, <code>model-based</code>, <code>model-free</code></td>
+</tr>
+<tr>
+<td><b>Grade</b></td><td>96%</td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary><b>Enhancing Monte Carlo Tree Search (MCTS) (2023)</b></summary>
-<ul>
-<li><b>Goal:</b> Improve the performance of an AI agent using basic MCTS in playing the card game "Sushi Go!"</li>
-<li><b>Tools:</b> Java</li>
-<li><b>Keywords:</b> <code>monte carlo tree search</code>, <code>bandit methods</code></li>
-<li><b>Grade:</b> 94%</li>
-</ul>
-<p><a href="https://github.com/grahaminn/AIinGames-Assignment1"><b>See GitHub team repository >></b></a> | <a href="https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf"><b>See report >></b></a></p>
-<p><i>NOTE:</i> I had no contribution to the final code due to mediocre results in IS-MCTS (Information Set Monte Carlo Tree Search) implementations. However, I was a major contributor to the final report.</p>
+<p>Improve the performance of an AI agent using basic Monte Carlo Tree Search (MCTS) in playing the card game "Sushi Go!".</p>
+<br>
+<a href="https://github.com/grahaminn/AIinGames-Assignment1"><b>See GitHub team repository >></b></a> | 
+<a href="https://github.com/pranigopu/artificialIntelligence-in-games/blob/main/assignment1/REPORT.pdf"><b>See report >></b></a>
+<br><br>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Improve AI performance in playing "Sushi Go!" using MCTS</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>Java</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>monte carlo tree search</code>, <code>bandit methods</code></td>
+</tr>
+<tr>
+<td><b>Grade</b></td><td>94%</td>
+</tr>
+</table>
+<p><i>Note:</i> No direct contribution to final code due to IS-MCTS implementation challenges, but major contribution to the final report.</p>
 </details>
 
 <details>
 <summary><b>Text Mining and Sentiment Analysis via Chrome Extension (2022)</b></summary>
-<ul>
-<li><b>Goal:</b> Create a Chrome extension to scrape a website's text and analyse the text</li>
-<li><b>Tools:</b> JavaScript, HTML, Python</li>
-<li><b>Keywords:</b> <code>chrome extension</code>, <code>django</code>, <code>text mining</code>, <code>sentiment analysis</code></li>
-<li><b>Grade:</b> 81%</li>
-</ul>
-<p><a href="https://github.com/pranigopu/sentiMiner"><b>See GitHub repository >></b></a></p>
+<p>Develop a Chrome extension to scrape website text and perform sentiment analysis using Django and Python.</p>
+<br>
+<a href="https://github.com/pranigopu/sentiMiner"><b>See GitHub repository >></b></a>
+<br><br>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Scrape website text and analyse sentiment via Chrome extension</td>
+</tr>
+<tr>
+<td><b>Tools</b></td><td>JavaScript, HTML, Python</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>chrome extension</code>, <code>django</code>, <code>text mining</code></td>
+</tr>
+<tr>
+<td><b>Grade</b></td><td>81%</td>
+</tr>
+</table>
 </details>
 
 <h1 id="highlighted-writings">:black_nib: HIGHLIGHTED WRITINGS AND PRESENTATIONS</h1>
 
 <details>
-<summary><b>Report on Transparency, Explainability and Accountability (TEA) in Artificial Intelligence (AI) (2024)</b></summary>
-<ul>
-<li><b>Goal:</b> Present a reflection, case study and ethics framework proposal for implementing TEA in AI</li>
-<li><b>Keywords:</b> <code>ai in industry</code>, <code>ethical framework</code>, <code>regulatory framework</code></li>
-</ul>
-<p><a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf"><b>See in GitHub >></b></a></p>
+<summary><b>Report on Transparency, Explainability, and Accountability (TEA) in AI (2024)</b></summary>
+<p>Present a reflection, case study, and ethics framework proposal for implementing TEA in AI systems.</p>
+<br>
+<a href="https://github.com/pranigopu/ethics--regulation--law-for-intelligentSystems/blob/main/finalCoursework/SUBMISSION.pdf"><b>See in GitHub >></b></a>
+<br><br>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Reflect on TEA in AI systems, propose an ethics framework</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>ai in industry</code>, <code>ethical framework</code></td>
+</tr>
+</table>
 </details>
 
 <details>
 <summary><b>Industry Case Study on Procedural Generation (2024)</b></summary>
-<ul>
-<li><b>Goal:</b> Present a case study on cyclic procedural generation from the game "Unexplored"</li>
-<li><b>Keywords:</b> <code>cyclic dungeon generation</code>, <code>unexplored</code>, <code>procedural content generation</code></li>
-</ul>
-<p><a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a></p>
-</details>
-
-<details>
-<summary><b>Presentation on a Paper in Deep Learning for Audio and Music</b></summary>
-<ul>
-<li><b>Goal:</b> Present the essentials of "Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</li>
-<li><b>Keywords:</b> <code>automated skills assessment</code>, <code>multimodal skills assessment</code></li>
-</ul>
-<p><a href="https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation"><b>See in GitHub >></b></a></p>
-</details>
-
-<details>
-<summary><b>Technical Writings on Key Statistical Concepts (2023-2024)</b></summary>
-<ul>
-<li><b>Goal:</b> Present a mathematically and conceptually rigorous overview of key statistical concepts</li>
-<li><b>Keywords:</b> <code>probability theory</code>, <code>statistical estimation</code>, <code>hypothesis testing</code></li>
-</ul>
-<p><a href="https://pranigopu.github.io/statistics/"><b>See in personal website >></b></a></p>
-</details>
-
-<details>
-<summary><b>Applications of Number Theory (2022)</b></summary>
-<ul>
-<li><b>Goal:</b> Present various real-world applications of number theory</li>
-<li><b>Keywords:</b> <code>number theory</code>, <code>pseudorandom number generation</code>, <code>cryptography</code>, <code>coding-decoding</code></li>
-</ul>
-<p><a href="https://github.com/pranigopu/mathematics/tree/main/numberTheory/applicationsOfNumberTheory"><b>See in GitHub >></b></a></p>
+<p>Present a case study on cyclic procedural generation, with examples from the game "Unexplored".</p>
+<br>
+<a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a>
+<br><br>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Discuss cyclic procedural generation using "Unexplored" as a case study</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>cyclic dungeon generation</code>, <code>procedural content generation</code></td>
+</tr>
+</table>
 </details>
 
 <h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
