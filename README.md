@@ -111,6 +111,20 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </details>
 
 <details>
+<summary><b>Presentation on a Paper in Deep Learning for Audio and Music (2024)</b></summary>
+<p>As a part of the deep learning for audio and music course, we students had to present a paper of our choice (either live or in video, with a live Q and A in either case). My chosen paper is <a href="https://arxiv.org/abs/2101.04884">"Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</a>. I chose this paper due to (1) my experience in piano assessment (as a student), (2) the relevance of such an application (e.g. personal performance evaluation to help self-improvement), and (3) the interesting complexity of the problem of automating musical evaluation.</p>
+<table>
+<tr>
+<td><b>Goal</b></td><td>Present "Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</td>
+</tr>
+<tr>
+<td><b>Keywords</b></td><td><code>automated skills assessment</code>, <code>multimodal skills assessment</code></td>
+</tr>
+</table>
+<a href="https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation"><b>See in GitHub >></b></a>
+</details>
+
+<details>
 <summary><b>Implementing Reinforcement Learning (RL) Methods (2024)</b></summary>
 <p>Implemented and tested RL methods for navigating a grid-based obstacle course (the "frozen lake" environment defined for the assignment) using model-based approaches (i.e. policy iteration and value iteration), model-free approaches (i.e. SARSA, Q-Learning, linear SARSA and linear Q-learning) and a deep learning approach (i.e. Deep-Q learning). This was a team project, but while the team worked together for the report and experiments, the RL methods were implemented by each member independently. Hence, this project solidified my grasp of RL methods, their effectiveness and their limitations/drawbacks. This project also challenged my problem-solving skills and strengthened my ability to collaborate.</p>
 <table>
@@ -175,7 +189,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </details>
 
 <details>
-<summary><h1 id="highlighted-writings">:black_nib: Highlighted Writings/Presentations</h1></summary>
+<summary><h1 id="highlighted-writings">:black_nib: Highlighted Writings</h1></summary>
 
 <details>
 <summary><b>Report on Transparency, Explainability, and Accountability (TEA) in AI (2024)</b></summary>
@@ -206,20 +220,6 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </tr>
 </table>
 <a href="https://github.com/pranigopu/interactiveAgents--proceduralGeneration/blob/main/caseStudy/SUBMISSION.pdf"><b>See in GitHub >></b></a>
-</details>
-
-<details>
-<summary><b>Presentation on a Paper in Deep Learning for Audio and Music</b></summary>
-<p>As a part of the deep learning for audio and music course, we students had to present a paper of our choice (either live or in video, with a live Q and A in either case). My chosen paper is <a href="https://arxiv.org/abs/2101.04884">"Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</a>. I chose this paper due to (1) my experience in piano assessment (as a student), (2) the relevance of such an application (e.g. personal performance evaluation to help self-improvement), and (3) the interesting complexity of the problem of automating musical evaluation.</p>
-<table>
-<tr>
-<td><b>Goal</b></td><td>Present "Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</td>
-</tr>
-<tr>
-<td><b>Keywords</b></td><td><code>automated skills assessment</code>, <code>multimodal skills assessment</code></td>
-</tr>
-</table>
-<a href="https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation"><b>See in GitHub >></b></a>
 </details>
 
 <details>
