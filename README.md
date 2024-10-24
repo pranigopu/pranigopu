@@ -47,7 +47,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </details>
 
 <details>
-<summary><b>Implementing Cellular Automata and Behaviour Trees (2024)</b></summary>
+<summary><b>Cellular Automata and Behaviour Trees (2024)</b></summary>
 <p>This project focused on (1) designing cellular automata to procedurally generate "coral reef" terrains and (2) implementing behavior trees for two agents: a diver (player) and a mermaid (AI). A key challenge was designing three distinct cellular automata that generated diverse yet coherent terrain, maintaining the natural aesthetics of coral reefs while offering gameplay variety. The game evolved into a simple but engaging challenge where the player must collect five artifacts while evading the mermaid's ranged and melee attacks. Coral reefs provided hiding spots but slowed the diver if spotted, balancing stealth and vulnerability. The player’s score depends on time taken and remaining health, adding tension and strategy to the gameplay.</p>
 <table>
 <tr>
@@ -71,7 +71,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </details>
 
 <details>
-<summary><b>Implementing Convolutional and Recurrent Neural Networks for Music (2024)</b></summary>
+<summary><b>Convolutional and Recurrent Neural Networks for Musical Analysis (2024)</b></summary>
 <p>Developed a machine learning system to recognise musical keys and tempo using convolutional neural networks (CNNs) and bidirectional recurrent neural networks (BRNNs) respectively, both implemented with Keras. Audio data was pre-processed into Mel spectrograms and segmented with Librosa, then combined through an end-to-end system for predictions. This project sharpened skills in ML architecture selection, data pre-processing, and result integration.</p>
 <table>
 <tr>
@@ -91,7 +91,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </details>
 
 <details>
-<summary><b>Implementing Neural Style Transfer (NST) for Audio (2024)</b></summary>
+<summary><b>Neural Style Transfer (NST) to Transfer Ambience to Music (2024)</b></summary>
 <p>Implemented neural style transfer (NST) to blend ambient soundtracks with melodic compositions. Developed a CNN for genre classification (implemented with Keras) and integrated it into a custom NST algorithm for audio (handling tensor operations using Tensorflow). Created an end-to-end interface on Google Colab for seamless audio processing and style transfer. Despite noisy outputs, the project provided insights into the potential and limitations of applying NST to audio.</p>
 <table>
 <tr>
@@ -111,7 +111,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </details>
 
 <details>
-<summary><b>Presentation on a Paper in Deep Learning for Audio and Music (2024)</b></summary>
+<summary><b>Presentation on a Paper on Piano Skills Assessment via Deep Learning (2024)</b></summary>
 <p>As a part of the deep learning for audio and music course, we students had to present a paper of our choice (either live or in video, with a live Q and A in either case). My chosen paper is <a href="https://arxiv.org/abs/2101.04884">"Piano Skills Assessment" by Paritosh Parmar, Jaiden Reddy and Brendan Morris</a>. I chose this paper due to (1) my experience in piano assessment (as a student), (2) the relevance of such an application (e.g. personal performance evaluation to help self-improvement), and (3) the interesting complexity of the problem of automating musical evaluation.</p>
 <table>
 <tr>
@@ -128,7 +128,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </details>
 
 <details>
-<summary><b>Implementing Reinforcement Learning (RL) Methods (2024)</b></summary>
+<summary><b>Reinforcement Learning (RL) Methods (2024)</b></summary>
 <p>Implemented and tested RL methods for navigating a grid-based obstacle course (the "frozen lake" environment defined for the assignment) using model-based approaches (i.e. policy iteration and value iteration), model-free approaches (i.e. SARSA, Q-Learning, linear SARSA and linear Q-learning) and a deep learning approach (i.e. Deep-Q learning). This was a team project, but while the team worked together for the report and experiments, the RL methods were implemented by each member independently. Hence, this project solidified my grasp of RL methods, their effectiveness and their limitations/drawbacks. This project also challenged my problem-solving skills and strengthened my ability to collaborate.</p>
 <table>
 <tr>
