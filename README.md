@@ -17,15 +17,6 @@
 </tr>
 </table>
 
-**Navigate this page...**
-
-:mag: <a href="#introduction">Introduction</a><br>
-:hammer: <a href="#highlighted-projects">Highlighted Projects</a><br>
-:black_nib: <a href="#highlighted-writings">Highlighted Writings/Presentations</a><br>
-:smirk_cat: <a href="#personal-projects">Personal Projects</a></td>
-
----
-
 <details>
 <summary><h1 id="introduction">:mag: Introduction</h1></summary>
 
