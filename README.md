@@ -120,6 +120,9 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 <tr>
 <td><b>Keywords</b></td><td><code>automated skills assessment</code>, <code>multimodal skills assessment</code></td>
 </tr>
+<tr>
+<td><b>Grade</b></td><td>72.1%</td>
+</tr>
 </table>
 <a href="https://github.com/pranigopu/deepLearning-for-audio--music/tree/main/paperPresentation"><b>See in GitHub >></b></a>
 </details>
