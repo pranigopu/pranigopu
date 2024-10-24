@@ -21,16 +21,17 @@
 
 :mag: <a href="#introduction">Introduction</a><br>
 :hammer: <a href="#highlighted-projects">Highlighted Projects</a><br>
-:black_nib: <a href="#highlighted-writings">Highlighted Writings and Presentations</a><br>
+:black_nib: <a href="#highlighted-writings">Highlighted Writings/Presentations</a><br>
 :smirk_cat: <a href="#personal-projects">Personal Projects</a></td>
 
 ---
 
-<h1 id="introduction">:mag: INTRODUCTION</h1>
+<details>
+<summary><h1 id="introduction">:mag: Introduction</h1></summary>
 
 Artificial intelligence is the subject of my choice for which I have a lot of time studying the theory and applying my knowledge in a variety of projects. My key motivations in studying AI were to (1) expand on the creative applications of AI systems and (2) integrate theory and practice to create well-founded and accessible solutions. I have a strong background in computer science, especially due to my extensive programming projects (mostly in Python, Java and C) in a variety of domains (both personal and academic; click [here](https://github.com/stars/pranigopu/lists/projects)). I also have a strong background in statistics and mathematics. I enjoy both mathematics and computer science, and putting them together has been a long-standing interest of mine. Additionally, I enjoy writing (in both technical and creative areas) and occasionally [composing music](https://musescore.com/user/31737238).
 
-<h1 id="highlighted-projects">:hammer: HIGHLIGHTED PROJECTS</h1>
+<h1 id="highlighted-projects">:hammer: Highlighted Projects</h1>
 
 <details>
 <summary><b>Comparative Evaluation of Bayesian Neural Networks (2024)</b> <i>(Master's Thesis)</i></summary>
@@ -178,8 +179,10 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </table>
 <a href="https://github.com/pranigopu/sentiMiner"><b>See GitHub repository >></b></a>
 </details>
+</details>
 
-<h1 id="highlighted-writings">:black_nib: HIGHLIGHTED WRITINGS AND PRESENTATIONS</h1>
+<details>
+<summary><h1 id="highlighted-writings">:black_nib: Highlighted Writings/Presentations</h1></summary>
 
 <details>
 <summary><b>Report on Transparency, Explainability, and Accountability (TEA) in AI (2024)</b></summary>
@@ -252,8 +255,10 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </table>
 <a href="https://pranigopu.github.io/mathematics/number-theory/applications-of-number-theory/"><b>See in personal website >></b></a>
 </details>
+</details>
 
-<h1 id="personal-projects">:smirk_cat: PERSONAL PROJECTS</h1>
+<details>
+<summary><h1 id="personal-projects">:smirk_cat: Personal Projects</h1></summary>
 
 <details>
 <summary><b>Learning Computer Vision</b></summary>
@@ -354,6 +359,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 </tr>
 </table>
 <a href="https://github.com/pranigopu/ticTacToe"><b>See GitHub repository >></b></a>
+</details>
 </details>
 
 <!---
