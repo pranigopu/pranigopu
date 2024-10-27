@@ -46,7 +46,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 <td><b>Grade</b></td><td>73.2%</td>
 </tr>
 </table>
-<a href="https://github.com/pranigopu/masters-project"><b>See GitHub repository >></b></a> | <a href="https://github.com/pranigopu/mastersProject/blob/main/deliverables/dissertation/dissertation.pdf"><b>See dissertation >></b></a>
+<a href="https://github.com/pranigopu/mastersProject"><b>See GitHub repository >></b></a> | <a href="https://github.com/pranigopu/mastersProject/blob/main/deliverables/dissertation/dissertation.pdf"><b>See dissertation >></b></a>
 </details>
 
 <details>
