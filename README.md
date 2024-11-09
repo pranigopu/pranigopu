@@ -9,7 +9,7 @@
 </tr>
 <tr>
 <td>:people_holding_hands: <b>Social</b></td>
-<td><code>Instagram</code>: <a href="https://www.instagram.com/pranigopu/">@pranigopu</a> ¦ <code>LinkedIn</code>: <a href="https://www.linkedin.com/in/pranav-gopalkrishna-3a8a37166/">Pranav Gopalkrishna</a></td>
+<td><code>Instagram</code>: <a href="https://www.instagram.com/pranigopu/">@pranigopu</a> ¦ <code>LinkedIn</code>: <a href="https://www.linkedin.com/in/pranav-gopalkrishna">Pranav Gopalkrishna</a></td>
 </tr>
 <tr>
 <td>:globe_with_meridians: <b>Websites</b></td>
