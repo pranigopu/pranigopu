@@ -88,7 +88,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 <td><b>Grade</b></td><td>60%</td>
 </tr>
 </table>
-<a href="https://github.com/pranigopu/keyAndTempoRecognitionViaDeepLearning"><b>See GitHub repository >></b></a>
+<a href="https://github.com/pranigopu/key--tempo-deepLearning"><b>See GitHub repository >></b></a>
 </details>
 
 <details>
