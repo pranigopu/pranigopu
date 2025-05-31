@@ -237,7 +237,7 @@ Artificial intelligence is the subject of my choice for which I have a lot of ti
 <td><b>Keywords</b></td><td><code>probability theory</code>, <code>statistical estimation</code>, <code>hypothesis testing</code></td>
 </tr>
 </table>
-<a href="https://pranigopu.github.io/statistics/"><b>See in personal website >></b></a>
+<a href="https://pranav-gopalkrishna.github.io/statistics/"><b>See in personal website >></b></a>
 </details>
 
 <details>
